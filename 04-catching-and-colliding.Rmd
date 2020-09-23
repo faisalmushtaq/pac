@@ -1,0 +1,131 @@
+# Catching and Colliding
+
+In my **last lecture** I talked about the problem of controlling steering using visual information when approaching a distant object (whilst keeping yourself safely between the road edges). 
+
+Catching (more generally referred to as the control of interception) is in some ways the inverse of steering, since rather than you moving towards the object, the distant object approaches you. 
+
+In this scenario what your system wants to know is “when will the object arrive” – which is usually referred to as the “time-to-contact” (TTC). 
+Once you know TTC you should be able to adjust your arm/hand movements in order to close your hand at the correct time and carry out a successful catch. 
+Hopefully you are thinking to yourself: 
+
+“Hang on, when I am catching I often need to run to get myself in the correct location first before reaching out and getting my hand in the right location”. 
+In fact the same TTC information should be useful when running (or driving) to let you control your rate of acceleration/deceleration so you stop in the correct place.
+
+Coordinating locomotion with interception is a more complex scenario that goes beyond the scope of this lecture (though it is an active area of research so feel free to look up the latest literature on it).
+
+## Judging Time to Contact (TTC)
+Humans are able to catch objects and avoid colliding with objects so it seems we are able to gauge TTC. 
+We know that the retina supplies our brain with useful information, and so it is useful to consider what retinal information is available that would allow us to gauge TTC. 
+If we start with the simplest case of a symmetrical ball coming towards your eye, what information is available to tell you when it will arrive? Physics tells us that TTC is based upon the real-world velocity (v) and distance (z) of the ball (v = z/time, so TTC = z/v). 
+It is unlikely that our system carries out this particular calculation since it doesn’t have direct access to velocity information and distance information is often distorted or imprecise (see **Lecture 8**). 
+Luckily the optical properties of the ball (i.e. the information at the retina) can be sufficient to determine TTC without recourse to calculating velocity and distance. 
+Sir Fred Hoyle first pointed out that time to contact information is available from the rate of expansion of an approaching object. 
+The figure to the right shows a slice through a yellow ball of physical size (S) approaching the eye at velocity (vz). 
+The retinal size (aka ‘optical size’) is linked to the distance since when closer it looks bigger (in technical terms it ‘subtends a larger angle’) on the retina. 
+As the ball gets closer (moves in the world from Z(1) to Z(2)) the retinal image size increases from r(1) to r(2) - the retinal velocity (vr) is therefore linked to the real world velocity (vz). 
+The ratio of retinal size to retinal velocity (r/Vr) was championed by David Lee^[Yes – this is the same Lee as in Land & Lee (1994) Where you look when you drive. Gets around doesn’t he?] as a variable used for interceptive timing in the animal kingdom and he dubbed it the 'Tau ratio' (a ratio is the relationship between two numbers when divided, namely r/Vr). 
+Tau (arbitrarily named after the Greek letter $\tau$) was greeted enthusiastically by a number of 'ecological' (Gibsonian) psychologists because it seemed to be a good example of invariant information that could be 'directly' detected from the optic array (remember that optic flow has been embraced in a similar way for the control of steering). 
+It is important to note that although tau can, in principle, provide time to contact information, it is a different issue as to whether animals actually use this source of information. 
+Another thing to clarify is that even though the relationship described above uses mathematics, this does not mean that you have to explicitly carry out these calculations in your head. 
+If we are able to use Tau to carry out actions then there should be a set of neurons that examine information from the retina and the relationship between retinal size and velocity of approaching objects to support rapid actions. 
+It would be very difficult for a human to successfully interact with the world based on cognitive conscious calculations because they would be impossibly slow.
+
+![Tau and TTC.](Images/L5_F1.png)
+
+The papers in this area of research use a variety of terminology so perhaps it’s time for a few formal definitions:
+
+- Retinal size – the size of an object on the retina. This is usually measured in angular units (e.g. degrees) and can often be denoted by the Greek character theta ($\theta$).
+
+- Optic expansion – the increase in retinal size of an object (retinal velocity, or Vr), also known as “**looming**”. Sometimes denoted at d$\theta$/dt : meaning change in retinal size divided by the change in time (d is often used to indicate ‘change’ – delta ($\Delta$) can also represent this too).
+
+- Tau ratio - the retinal size (r) divided by the retinal velocity of optic expansion (Vr)
+
+![It is hypothesised that sea birds may use tau to judge TTC.](Images/L5_F2.png){width=320px}
+
+## Evidence for the Use of Tau in the Real-World
+Lee & Reddish (1981) provided evidence that gannets use tau by showing that they folded their wings at a particular TTC with the water. 
+Following this (very) influential study, a number of researchers sought further evidence for the use of tau by animals and humans (Yes, I know that science is supposed to test hypotheses rather than seek evidence in support of them). 
+Over the years a wide number of studies purported to find evidence for the use of tau in humans (e.g. Ski-jumpers taking off: Lee, Lishman & Thompson, 1982) and animals. 
+Gradually people came to believe that tau and TTC information were one and the same thing. 
+Unfortunately, all these studies were observational and so at best showed behaviour that was consistent with the use of tau, rather than testing tau directly (e.g. by manipulating the available information in a standard experimental psychology manner).
+
+## Is Tau Really the Only Control Variable for Interceptive Timing?
+It was James Tresilian (1990) who first began to raise doubts about the ability of tau to explain interceptive timing behaviour in humans. 
+He pointed out a number of problems with tau: i) it assumes a constant target velocity (it doesn't take accelerations into account), ii) the target must be heading directly towards the eye, and iii) if it is non-spherical, it cannot be rotating. 
+He showed at a theoretical level that tau alone couldn't possibly account for the accurate time to contact behaviour made by humans across a wide range of tasks. 
+Tresilian (1990) did, however, propose a general solution to the problems raised by the original formulation of tau and suggested that tau could contribute a first order approximation to the actual time to arrival for use in fast interceptive actions.
+
+Despite Tresilian's theoretical musings, there was still a large body of scientific literature that supposedly showed humans and animals using tau as the sole timing variable. 
+John Wann (1996) reviewed all of these studies, however, and showed that each of them had fundamental flaws, with the data not necessarily supporting the conclusions. 
+Most notably he identified that the gannets were actually diving from heights between 31cm and 1m high (rather than large graceful dives, they were really bobbing their heads whilst picking up fish being thrown from the back of a fishing boat).
+
+## What Other Information Might We Use to Gauge TTC?
+If humans do not use tau as the sole timing variable, what other information might they be using? 
+One possibility is that when observers have two eyes open they use binocular information (see **Lecture 8**). 
+We can hypothesise that there are two sources of information used by humans for gauging time to contact. The first is binocular (ratio of the rate of change of vergence OR horizontal disparity— we will assume the two are equivalent) and the second is the 'monocular' cue of looming. 
+The binocular cue can provide time to contact information in the same way as the looming cue— 
+i.e. without recourse to knowing the distance or the velocity of the ball. 
+It should be noted that binocular information is likely to be most effective for small balls and looming most effective for larger balls. 
+Notably, catching a ball will often involve running, moving the head etc., so that binocular information will vary in its reliability.
+
+![VR has been used to manipulate looming.](Images/L5_F3.png){width=320px}
+
+Rushton & Wann (1999) tested whether these sources of information are used by perturbing the looming and/or the binocular information inside a ‘virtual reality’ display (see box below). 
+Rushton & Wann found evidence that the nervous system uses both forms of information— 
+i.e. perturbing either of these cues caused timing errors. 
+Rushton & Wann were able to model their data using a simple scheme that they called **the 'dipole' model** (what a pretentious title!). 
+The dipole model copes with 'cue drop out' (e.g. losing a binocular view of the ball) by implicitly switching to the remaining cue and switching back to dual weighting if both cues become available. 
+If a conflict arises between the looming and the binocular information then the model simply increases the weight of the most immediate cue (that is, the one which specifies the shortest time to contact). 
+This makes good sense because it is better to duck too early in the real world than too late!
+
+## Virtual Reality (VR) - TO GO IN A BLUE BOX
+The information sources in the real-world tend to be consistent: 
+as a ball approaches our eyes the retinal size increases and the binocular disparities increase. 
+While it is possible to devise real-world experiments that alter this relationship (e.g. having a deflating ball) it is often hard to do this in a controlled and systematic way. 
+Virtual reality displays use the power of modern computers to generate moving images and present them to the eye in order to simulate the real-world properties of objects and surfaces within the world. 
+In a head mounted display (like that shown in the Figure), the images are presented to the eyes through small screens placed in front of each eye. 
+Most importantly such techniques allow us to change the relationship between different variables (e.g. retinal size and binocular disparity) so they are no longer consistent. 
+A VR headset generally displays two slightly different images to your eyes (to recreate normal binocular disparity) but can allow the disparities to be increased or reduced completely independent of optic size. 
+Similarly retinal size can be altered without binocular disparity information being affected. 
+We can use such manipulations to test if a source of information is being used to control catching, and if so, how much the system relies on each source (the weighting).
+
+The additional power of VR is that the experiments can alter the visual information based on the behaviour of the participant. 
+For example in my steering experiments, turning the wheel alters the visual information projected to the eye, and we could readily change the visual information in the display based on other behaviours (e.g. eye-movements). 
+Such interactive displays allow us to investigate complex skilled behaviours that rely upon feedback in order to be successful.
+
+## Does it Matter Where You Look?
+The short answer is: yes. 
+If you don’t look at the approaching object then you won’t have a good vergence signal which might make it harder to gauge TTC. 
+In order to examine this question it is useful to consider where we actually look when an object is approaching. 
+Mike Land stepped up with another real-world study, this time looking at cricketers batting (Land & McLeod, 2000). 
+Batting in cricket is a slightly different case from catching since the ball tends to bounce off the ground rather than expand towards your head (unless you are a really bad bowler). 
+In their observations batters tracked the ball for ~200ms until they had enough information to make a **predictive** saccade to where they thought the ball would bounce – they fixated that point on the ground until the ball bounced at which point they tracked the ball for the rest of the trajectory. 
+It seems that image expansion (Tau) is unlikely to be used when they do not look at the ball, but in the later stages (after the bounce) Tau and binocular disparity might be useful sources of information for gauging TTC.
+
+![Vergence is used ot imporove TTC judgements.](Images/L5_F4.png)
+
+Tresilian has argued that there is no single strategy for all timing judgements and suggested that the nervous system learns to use whatever information is available in any way it can in order to achieve satisfactory performance. 
+The paper by Land & McLeod (2000) would seem to support that since there are a number of unique informational variables peculiar to batting at cricket that would not be useful in other situations even in a game that has many similarities (e.g. baseball). 
+Lopez-Moliner, Field and Wann (2007) have shown that an additional source of information that can be useful to you when catching is the known size of the ball that is coming towards you (e.g. knowing it is a cricket ball rather than a football). 
+This may seem obvious but it goes even further against the Gibsonian view of perception & action. 
+Not only does it seem that there is not one single informational invariant for interceptive timing, but having prior stored information (representation) about real world objects changes how you perceive and act. 
+Having a stored estimate about the properties of world objects seems to be generally useful (this will come u again in **Lecture 9**) but it is still an open question the form that these estimates take and how transient they are. 
+For instance it is unlikely that we have the capacity to store size and weight information about every object we have ever interacted with. 
+In his lecture Jeff will be following on from this theme and discussing the capacity limits of short-term memory storage of visual information.
+
+## References
+Gibson, J. J. (1958). *Visually controlled locomotion and visual orientation in animals*. British Journal Psychology, 49, 182-194.
+
+Land, M. F. & McLeod, P. (2000). *From eye movements to actions: how batsmen hit the ball*. Nature Neuroscience, 3(12), 1340-1345.
+
+Lee, D. N. (1976). *A theory of visual control of braking based on information about time-to-collision*. Perception, 5, 437-459.
+
+López-Moliner, J., Field, D. T., & Wann, J. P. (2007). *Interceptive timing: Prior knowledge matters*. Journal of Vision, 7(13):11, 1-8.
+
+-- Lee, D. N. & Reddish P. E. (1981). *Plummeting Gannets: a paradigm of ecological optics*. Nature, 293.
+
+-- Rushton, S. K. & Wann, J. P. (1999). *Weighted combination of size and disparity: a computational model for timing a ball catch*. Nature. 2(2), 186-190.
+
+Tresilian, J. (1990). *Perceptual information for the timing of interceptive action*. Perception, 19(2), 223-239
+
+-- Wann, J. P. (1996). *Anticipating arrival: Is the tau margin a specious theory?* Journal of Experimental Psychology: Human Perception and Performance, 22, 1031-1048.

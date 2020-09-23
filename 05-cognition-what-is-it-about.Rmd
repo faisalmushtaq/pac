@@ -1,0 +1,172 @@
+# Cognition - What’s it all about?
+
+At this stage in the lecture series you should be getting a good idea about the importance of perception and action, and understanding research in this area. 
+It’s worthwhile now taking a step back and thinking about where this material fits within the overall scheme of things – in other words, how does perception and action relate to psychology in general and cognition in particular?
+
+## So, What is Cognitive Psychology?
+It is always useful to start off with some definitions. 
+Let’s start by defining psychology (pulled from a battered copy of Collins Concise) and then delineate our line of enquiry on the basis of this definition:
+
+*Psychology is the scientific study of all forms of human and animal behaviour.*
+
+This is a pretty big area of study! 
+In order to make life a bit easier we tend to divide psychology into different areas – which is why you take modules which define themselves by using the word ‘cognition’. This raises the question of how we define ‘cognition’. 
+One useful definition was provided by Neisser (1976):
+
+*Cognition is the activity of knowing - the acquisition, organization, and use of knowledge.*
+
+This is a useful definition but it’s a bit vague. 
+In order to make it more precise, we can reword the definition in the following way:
+
+*Cognition is the activity of processing information: the acquisition, organization, and use of information.*
+
+The reason that this definition is more precise is because it replaces a vague concept (knowledge) with a measureable quantity – information.
+
+## So, What is Information?
+It is possible to define information in the following way:
+$$H = - \sum_x p(x) \log_2p(x)$$
+where H is information and $p(x)$ is the probability of an event. 
+The equation was first created by Claude Shannon and lies at the heart of what is known as ‘Information Theory’. 
+Information theory is one of the most important theories within science and underpins all of the fancy electronic equipment that we use on a daily basis. 
+We will explain this equation within the lectures but the important point to note is that this equation shows that information can be quantified. 
+It also shows that information is intrinsically linked with the probability of an event. 
+This is an extremely useful concept for us as we try and understand how humans survive in an uncertain world where our only access to knowledge about the world is through noisy sensory systems. 
+It is also useful for us as we try and understand how humans act skilfully on the world, given the noise that affects the commands we send to our muscles.
+
+## Cognition Action Interactions
+We can now return to our definition of Cognition (big C) as the activity of processing information: 
+the acquisition, organization, and use of information. 
+The issue of how humans process information is enormous so we can further break down the study of Cognition into three broad areas that we can label as ‘perception’, ‘cognition’ (small c) and ‘action’. 
+These areas can be considered as focussing on the processing of information (perception), the storage and manipulation of information (cognition) and the transmission (use) of information (action). 
+The problem with creating categories is that it is easy to forget that these are artificial divisions created for convenience. 
+We must always bear in mind that these divisions are useful but arbitrary labels. 
+One key theme throughout this lecture series is that perception and action are two sides of the same coin (often captured in the term ‘sensorimotor processes’) and that perception, action and cognition constitute a complete system (a system in which the environment ‘closes’ the feedback loop). 
+The intrinsic links between perception, action and cognition can be seen in the figure below:
+
+![The flow of information.](Images/L6_F1.png)
+
+It is important to flag that the term ‘cognition’ is often used to refer to the ‘higher-order’ storage and manipulation systems that are unique to humans. 
+Once more, we need to be careful about creating categories and then treating a category as if it is completely separate – but it is useful to identify a category that we might label as ‘human cognition’ or ‘higher-order cognition’ or ‘off-line cognition’. 
+This category can capture all of the information processing capabilities that are unique (at least in quality) to humans. 
+We can contrast this system with the more fundamental ‘sensorimotor system’ that we share with all non-human primates.
+
+If we consider the relatively recent development of higher-order cognition in primates (i.e. the appearance of these capabilities in humans over the last 6.5M years) then we reach an unavoidable conclusion regarding human cognition – human cognition must have evolved from the neural circuits that underpin the perceptual-motor abilities shared by all primates. 
+It follows that cognition is related to perceptual-motor function at a phylogenetic level (phylogenetic refers to the history of a species).
+
+A number of theorists (e.g. Piaget 1954) have also argued that perceptual-motor function is related to human cognition at the level of ontogeny (the history of the individual). 
+For example, Piaget suggested that representational thought rests on an infant’s early sensorimotor exploration of the world. 
+There is now a wealth of data supporting the notion that more recently evolved ‘off-line cognitive functions’ are intrinsically related to the mechanisms of ‘perception and action’. 
+This basic idea has become captured (to some degree) by the umbrella term of ‘embodied cognition’. 
+Embodied cognition can be considered as both fact and the beginnings of a theory. 
+The intrinsic link between sensorimotor processing and cognition has been confirmed to such a degree that it would be “perverse to withhold provisional assent” (Stephen J Gould’s definition of a scientific fact) for the factual basis of embodied cognition.
+
+Nevertheless, there is currently no agreed definition of embodied cognition and a formal theory has yet to be developed. 
+Thus, the term ‘embodied cognition’ often means different things to different people. 
+All definitions of ‘embodied cognition’ contain the idea that higher-order cognition cannot be considered as being completely independent of sensorimotor processing. 
+Extremists in the field of embodied cognition argue that it is impossible to study cognition in its own right (they suggest that it is only meaningful to consider how the whole perception-action-cognition system interacts with the environment). 
+This extreme position (like most extreme views) does not stand up to logical scrutiny. 
+In this lecture series we adopt an intermediate position – human cognition and sensorimotor processing (perception-action) will be regarded as meaningful distinctions and representing categories that are worthy of study in their own right BUT with the recognition that cognition, perception and action are broad and overlapping processes – processes that interact with each other. 
+This viewpoint can be described as the Cognition Action Interaction Theory (a theory that we are in the process of developing and publishing!).
+
+## So, What is Perception?
+In light of the definitions provided, we can now consider what we mean by perception. 
+Here is a definition:
+
+*Perception is the process by which an organism detects and interprets information from the external world by means of the sensory receptors.*
+
+We could quibble with some aspects of this definition but it will serve our purpose (and is superior to a lot of definitions that appear in numerous psychology textbooks). 
+You will note that the key word in this definition is ‘information’. We have already discussed that one major pressure on any species is the need to ‘perceive’. 
+If a given species has an edge in obtaining information from the environment then it has an evolutionary advantage over other species. 
+The information gathering process is, naturally, for a purpose. 
+Perception is important because it allows the organism to act optimally. 
+The organism that acts optimally (e.g. selecting food, choosing a mate etc) is ‘fit’ in the Darwinian sense - it survives where its competitors become extinct. 
+We should never lose sight of the fact that perception is driven by action with organisms (including humans) engaged in a process of actively seek information. 
+Thus, perception and action form a dynamical system that underpins our very nature. 
+It follows that if we want to understand what it is to be human then we must consider the processes involved in perception. 
+In this context, it is useful to think about humans as ‘information predators’.
+
+## Vision is a Robust System
+In this lecture series, we are focussing particularly on how humans process information from electromagnetic energy (i.e. visual perception). 
+It is extremely likely that information coming into the nervous system will contain 'wrong' bits of information (noise) — erroneous data if you like. 
+It seems reasonable to assume that the nervous system has evolved to deal with this problem— in other words the system is robust. 
+The term 'robust' used in this context originates in statistics where data can either be estimated in a non-robust fashion (e.g. the mean is a non-robust statistic) or a robust manner (the median is a robust statistic). 
+A robust statistic is simply one that optimally describes the data when outlying values are present. 
+The lecture on distance perception (**Lecture 8**) will describe evidence for the idea that the nervous system is a robust observer that provides the statistically most probable interpretation of the world. 
+This is an extremely important point to grasp: 
+*the nervous system can be thought of as a continuously adapting, opportunistic learning machine, constrained by task requirements, stimulus conditions and neural information processing limitations.*
+
+One way that the 'opportunistic learning machine' produces an accurate representation of the world is by using information from a variety of sources. 
+It is traditional to refer to a source of information as a 'cue' and the use of multiple information sources is thus known as cue combination. 
+Theoretical accounts of cue combination may be considered to fall on a continuum between the *weak* and the *strong* fusion accounts:
+
+- The weak fusion account suggests that cues are considered in isolation and the cues are subsequently averaged.
+
+- The strong fusion account supposes that the nervous system selects the statistically most probable interpretation.
+
+In its pure form, weak fusion is an unrealistic account of cue combination as a single noisy cue will force the nervous system to make large errors. 
+In contrast, strong fusion is a plausible account but lacks any constraints and is therefore not falsifiable— this means that it isn't very useful at a scientific level.
+
+A more useful framework for considering cue combination is the *modified weak fusion* (MWF) process. 
+In the MWF process one cue can promote another to allow it to provide information to the system but no other interactions are allowed. 
+The modified weak fusion account is consistent with existing data on cue combination and provides a parsimonious summary of extant empirical studies. 
+In *Lecture 8* we will see how modified weak fusion provides a useful account of some of the processing carried out by the human nervous system.
+MWF can be considered as a process that allows humans to make inferences based on uncertain information. 
+There is a mathematical framework within ‘Information Theory’ that describes how inferences can be made when information in uncertain. 
+The framework is known as ‘Bayesian statistics’ and we will explain this framework within the lectures. 
+The framework is important because there is much evidence to suggest that the brain can be thought of as a ‘Bayesian operator’ in certain situations.
+
+## Visual information
+We have now established that visual perception describes the processing of information contained within the electromagnetic radiation that reaches the eye – with this process beginning at the retina. 
+It is easy to think about the retina as some kind of boring biological photosensitive film. 
+In fact, it is an amazing piece of neural architecture consisting of ten different layers. 
+Counter-intuitively (though this is readily understood by considering the eye’s evolutionary development), the rods and cones lie near the bottom of the retina (i.e. furthest from the front of the eye). 
+Photons cause the rods and cones to produce electrical activity and it is this electrical activity that is the input into the visual system. 
+There are approximately 125 million rods and cones in the eye and above these lie three types of nerve cell that feed into ‘retinal ganglion cells’. 
+It is useful to think about this neural network as the front line computer that begins the complex task of processing the incoming information.
+
+*The anatomy of the central visual pathways* - It is worthwhile considering the anatomy that underpins visual processing. 
+One important concept to grasp is the idea that information ‘flows’ down channels. 
+We refer to these channels using a variety of terms (e.g. ‘streams’, ‘pathways’, ‘networks’) and the idea of information flowing through the system can be extremely useful. 
+You should bear in mind that the information flow is not a passive process - the structures that the information flows through are not simple ‘pipes’ but are actively processing (filtering) the incoming signals.
+
+The next important concept is the notion that different types of information flow down different channels. 
+This simply means that different channels are responsible for processing different types of information because they have somewhat different anatomical organisation. 
+It follows that the system is highly organised - and that organisation is made manifest in specialist anatomical structures carrying out distinct information processing. 
+The fact that different channels have different responsibilities does not mean that they are completely independent (indeed it is highly likely that they will interact) nor does it mean that we can predict higher-level behavioural responses on the basis of lower level anatomical organisation.
+
+We have suggested that it is useful to consider the retina as a specialised neural computer. 
+Ganglion cells convey the retinal output and there are three types of interneuron that allow information from the rods and cones to feed into the ganglion cells. 
+The three types of retinal nerve cell (interneurons) that lie between the receptors and the ganglion cells are (i) horizontal; (ii) bipolar; (iii) amacrine. 
+Information from the ganglion cells flows through the central visual pathways until it reaches ‘primary visual cortex’ (also known as ‘striate cortex’, ‘occipital cortex’, ‘visual area 1’ or, most prosaically, V1).
+
+We will have a look at some of the key features of this “information super highway” (the **bold typeface** indicates the key anatomical features in the order the information reaches them). 
+The **ganglion cells** have axons (the transmitting element of neurons) that stream towards the optic disc where they become myelinated (myelin sheaths provide physiological ‘electrical insulation’) and form the optic nerve. 
+The **optic nerves** from the two eyes project to the **optic chiasm** where the nerve fibres are organised and bundled into the optic tracts. 
+The fibres from the optic nerve are organised in such a way that the axons from the left half of each retina are channelled into the left **optic tract** whereas the axons from the right halves of the retinae are channelled into the right optic tract. 
+Information flows down these optic tracts into three major destinations. The most important destination is the **Lateral Geniculate Nucleus** commonly known as the LGN (90% of the nerve fibres end up here).
+
+The LGN is the major terminus through which information flows into the visual cortex. 
+In primates, the LGN has six layers of cell bodies. 
+Two layers contain relatively large cells and are known as the Magnocellular layers. 
+Four layers have (you guessed it) smaller cells that are known as the Parvocellular layers. 
+It transpires that there are different types of ganglion cell in the retina, including M and P ganglion cells. 
+The M ganglion cells project to the Magnocellular layers whilst the P ganglion cells project to the Parvocellular layers. 
+It is therefore possible to identify two major pathways: 
+the Magnocellular (M) pathway and the Parvocellular (P) pathway. 
+Both channel information to the **primary visual cortex (V1)**.
+
+The M and P pathways are responsible for processing (and channelling) different types of information. 
+The P pathway responds strongly to changes in colour (where the M pathway responds only weakly). 
+The M pathway is specialised for low spatial frequency (see p6 **CHECK THIS!!**), low luminance contrast and high temporal frequency information. The P pathway is specialised for high spatial frequency, high luminance contrast and low temporal frequency information.
+
+## References
+
+-- Clark, A. (1999). *An embodied cognitive science?* Trends in Cognitive Sciences, 3 , 345–351.
+
+-- Hill, L. J. B., Mushtaq, F., O’Neill, L., Flatters, I., Williams, J. H. G. & Mon-Williams, M. (2016). *The relationship between manual coordination and mental health*. European Journal of Child and Adolescent Psychiatry, 25(3), 283-295.
+
+Neisser, U. (1976). *Cognition and Reality: Principles and Implications of Cognitive Psychology*. New York: WH Freeman and Company
+
+Piaget, J. (1954). *The Construction of Reality in the Child*. New York: Basic Books.
+
+-- Wolpert, D. M. & Ghahramani Z. (2009). *Bayes rule in perception, action and cognition*. In Oxford Companion to the Mind, Oxford: Oxford University Press.

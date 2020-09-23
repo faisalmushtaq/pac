@@ -1,0 +1,25 @@
+--- 
+title: "Perception, Action & Cognition - Course Handbook"
+author: "Prof. Richard Wilkie, Dr Faisal Mushtaq, Dr Ryan Morehead and Prof. Mark Mon-Williams"
+date: "`r Sys.Date()`"
+output:
+  word_document: default
+  pdf_document: default
+bibliography:
+- book.bib
+- packages.bib
+description: Notes to accompany the University of Leeds Undergraduate Psychology Module
+  PSYC2554/3454
+documentclass: book
+github-repo: faisalmushtaq/pac
+#github-repo: rstudio/bookdown-demo
+link-citations: yes
+cover-image: images/Title.png
+site: bookdown::bookdown_site
+biblio-style: apalike
+url: https://github.com/faisalmushtaq/pac
+---
+
+# Welcome
+
+Hello and welcome to the Perception, Action and Cognition course textbook. This book is designed to complement the lectures 

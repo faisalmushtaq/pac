@@ -1,0 +1,160 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+#  Exploring the world using our eyes
+
+Humans explore the world through perception and action. 
+Exploration increases the information we have about the environment ensuring that our actions are efficient and appropriate. 
+We are mobile animals and we usually explore the world by moving through it, but even when we are stationary we explore using our mobile head and eyes. 
+The human eye-movement system represents a microcosm of the linkage between perception and action: we perceive in order to act, and must act to be able to perceive.
+
+## Why do we move our eyes?
+In much the same way as our hands reach out to grab an object, we use our eyes to “reach out and grab information” (Carpenter, 2000). 
+Eye-movements are used by humans to sample visual information from the environment. 
+When you look at a target the light falls on the highest resolution part of the eye – the fovea. 
+The eye has limited resolution in the periphery, but can sample high resolution spatial and colour information at the fovea. 
+In addition to the detailed information made available, the eye fixation usually indicates that attentional resources have been assigned to consider this information. 
+“Attention” is a surprisingly tricky concept to deal with – not only is it is hard to define, but it is also difficult to measure. 
+Often eye-movements are used as a proxy for attention because there are such tight links between where we look and attend (though they can be dissociated).
+
+Depending upon the task we are carrying out our eyes move approximately 3-4 times a second.
+Eye-movements can occur reflexively (e.g. flickering motion in the visual periphery often makes us look in that direction without conscious control), but our eyes are sometimes under our conscious control (voluntary eye-movements). 
+This makes it quite difficult to introspect about how we use eye-movements to carry out tasks, because as soon as we start thinking about what we are doing with our eyes, our behaviour changes. 
+For example: 
+where do you look when you drive a car? 
+If you think about this when you are driving it is unclear that your eye-movement patterns are the same as when driving normally. 
+There are a variety of tools available to the psychologist to get quantitative measures of eye-movements to determine how people move their eyes, where they fixate and for how long. 
+At this point it is useful to consider the different types of eye-movements and the functions they serve.
+
+## Different Types of Eye-Movements
+
+### Saccades
+Saccades are rapid ballistic eye movements (in the range of 400-800°/s) of short duration (15-100ms) that change the target of fixation (and therefore the information falling on the fovea; http://tinyurl.com/3sxrhu2). 
+‘Ballistic’ means that the movements are rapid and preplanned and so are not guided by sensory feedback (during the movement itself). 
+Saccades (followed by fixations) are the primary way in which we explore the world using our eyes. 
+Humans make 3-4 saccades every second, usually unconsciously, to sample information useful for carrying out actions.
+
+When we make a saccade the visual information falling on the retina rapidly changes which leads to motion blur at the retina. 
+This would be very disruptive to the perception of a coherent world, however, so our visual system suppresses visual inputs during saccades. 
+This is called ‘saccadic suppression’ or ‘saccadic masking’. 
+This suppression means that we do not see the blur that occurs when the eyes move during saccades. 
+The presence of saccadic suppression has been tested by flashing a light or moving a visual target during each saccade, and it has been shown that such changes are not detected by your perceptual system (Bridgeman et al, 1975). 
+In the real-world, of course, it is highly unusual for objects to move only for the short period of time when your eye is making a saccade. 
+Indeed a moving target in the periphery often acts as a stimulus that generates a saccade.
+
+### Fixation
+Once you have made a saccade to a target, you require a period of time to sample the required information. 
+This is generally referred to as fixation. 
+Fixation is essential to examine in detail the target object. 
+Because our nervous system is particular good at responding to changes in information this is not as easy as it might sound. 
+Maintaining the same visual input could be problematic because the photoreceptors and other neuronal connections may become fatigued or adapt (see figure, from Martinez-Conde, Macknik and Hubel, 2004). 
+Three sets of eye-movements seem to occur during fixation: microsaccades, ocular drifts and ocular (micro) tremors. 
+It seems that these small eye-movements ensure that the image on the retina is not completely static and so doesn’t disappear.
+
+![The suction cup techique - an early test of retinal stabilization](Images/L2_F1.png)
+
+### Smooth Pursuit
+So far we have considered finding and fixating a target, however many of the objects we are interested in the world move relative to us. 
+We generally classify fixation as either being static fixation (as described above) or tracking fixation. 
+A crucial form of tracking fixation relies upon smooth pursuit eye-movements. 
+These are much slower eye-movements than saccades that allow us to track moving targets at around 30°/s. 
+These pursuit eye-movements allow humans to continue to sample high-quality visual information (from the fovea) by tracking the target. 
+Unlike saccades, pursuit eye-movements are dependent upon visual feedback to maintain fixation and cannot (easily) be generated spontaneously (i.e. a smoothly moving visible target helps you generate a smooth pursuit movement)^[Dr Melanie Burke (working in Psychology at U.Leeds) has published a great deal of research examining the role of prediction within smooth pursuit.].
+
+### Vergence
+Targets that require fixation do not always move laterally. 
+Sometimes objects come towards you and it is critical that we have useful information about these objects 
+(e.g. is it an approaching lion or a cricket ball? Can you dodge the approaching object in time?). 
+Vergence eye-movements allow us to maintain fixation of objects that move towards (or away from) our eyes and continue to sample information during tracking fixations^[We will consider how we act upon approaching objects in **Lecture 5 (‘Catching’, RW)**.].
+Let’s give you an example of this. 
+If you put your arm out straight in front of you, hold up one finger, and then fixate it. 
+Keep looking at this finger as you move it slowly towards your nose. You’ll notice that you can still clearly see your finger as it moves towards you. 
+This is because your eyes are converging (rotating inwards) to keep the target on the fovea of both eyes. 
+This requires your two eyes to rotate in opposite directions (disconjugate eye-movements) unlike saccadic and smooth pursuit eye-movements which involve movements in the same direction (conjugate eye –movements).
+
+If you keep moving your finger closer, when it gets about 10cm away from you, you should feel the muscles that move your eyes feeling tight. 
+Move it even closer than that and you will no longer be able to see a single clear image (the image becomes diplopic – you’ll get ‘double vision’). 
+The eyes cannot rotate any further and so the images no longer fall on the fovea.
+
+If you repeat this task a few times you’ll notice a variety of interesting things about the visual information available to you when fixating an approaching target, 
+e.g. the background information becomes more out of focus the closer your finger comes to your nose. 
+We won’t cover the reasons for this now but the general point is that these eye-movements are very useful for seeing the world in depth. 
+Mark will examine this problem in detail in **Lecture 8**, alongside the various sorts of information that we use for acting on a three-dimensional world.
+
+### Vestibulo-Ocular Reflex (VOR)
+When you saccade and fixate a target you often want to continue to fixate it as you walk towards it. 
+A natural behaviour is to fixate with the eye and then rotate your head to align with the target. 
+The Vestibulo-Ocular Reflex is what allows your system to stabilise the image on the fovea during head movements smoothly and effortlessly. 
+Without this reflex the head movement would also rotate the eye and cause the target to move off the fovea, which would then have to corrected with a series of saccades. 
+Essentially the VOR means that a rotation of the head causes an equal and opposite rotation of the eye. 
+This reflex is driven by the vestibular system (the semi-circular canals and otoliths in the inner ear) and does not require a visual target (try it with your eyes closed!).
+
+![](Images/L2_F2.png)![](Images/L2_F3.png)
+
+### Nystagmus
+When you sit on a train gazing out the window you often experience a particular type of Nystagmus (Optokinetic Nystagmus, or OKN). 
+Essentially you are trying to fixate in a particular direction, but the point of fixation keeps whizzing away from you, so your eye automatically saccades back to fixate in the original direction. 
+You get a similar effect with large head rotations. 
+When the eye approaches the edge of the oculomotor range a saccade is produced in the opposite direction (try looking forwards and spinning yourself on a swivel chair next time you are on one).
+
+Nystagmus in the absence of visual or vestibular inputs can be an indication of an imbalance in the VOR because of unilateral lesions in the vestibular system, or other brain lesions (e.g. cerebellar damage). 
+The eye-movement systems are generally very sensitive to a variety of diseases and disorders, so can be useful for early diagnosis of brain lesions (e.g. http://tinyurl.com/3pb8oco).
+
+## How do we control eye-movements?
+Eye movements are generated using parietal, frontal, brainstem and cerebellar brain regions. 
+Eye-movements are generally carried out in an unconscious, automatic and rapid fashion, but some eye-movements are also open to conscious cognitive control.
+
+![](Images/L2_F4.png){width=480px}
+
+Each eye is controlled via 6 main ocular muscles (shown right) that act as 3 agonist-antagonist pairs. 
+To rotate the eye one muscle contracts and the other relaxes. 
+The 3 pairs allow horizontal, vertical and torsional rotations. 
+The simplest pair to consider is the lateral rectus and medial rectus that move the eye horizontally (by abducting or adducting the eye). 
+The superior and inferior rectus predominantly control vertical rotations, elevating or depressing the eye, but because each eye sits within an angled bony orbit (see top down in Panel A to the right, bony orbit indicated by the faded brown pyramidal wedge shape) these muscles also cause some torsional rotations, so the superior and inferior oblique muscles are also used to control vertical eye movements (as well as controlling torsional rotations). 
+The interaction between these muscles can be clearly seen in Panel B to the right, which shows dextroelevation of the eyes (top down view). 
+Both eyes look up and to the right (from the viewer’s perspective). 
+The person’s right eye (R) is aligned with the bony orbit and so contracting the superior rectus (and relaxing the inferior rectus) causes elevation. 
+In contrast, when looking right the left eye (L) is not aligned with the bony orbit so contraction of the inferior oblique is the predominant muscle used to elevate the eye.
+
+![](Images/L2_F5_cropped.png)
+
+## What do eye-movements allow us to do?
+Because this module is about perception and action we should really consider how eye-movements actually allow us to perform tasks. 
+A nice general paper that considers this question is by Land & Hayhoe (2001). 
+They examine the sequence of eye-movements involved in making a cup of tea, and compare them with making a peanut butter sandwich. 
+They find that the eye moves to an object before it is manipulated, which suggests that the eye-movement must be a planned part of the motor pattern. 
+They found that the eye-movements seemed to be tightly focussed on task relevant objects with fixations mapping onto functions such as:
+
+i) Locating – establishing the locations of objects for future use
+
+ii) Directing – establishing target direction prior to contact
+
+iii) Guiding – supervising the relative movement of two or three objects
+
+iv) Checking – establishing the status of an object
+
+At the same time they observed that the hands are hardly ever fixated – presumably proprioception^[Proprioception refers to the internal signals about body position and motion – in this case stretch receptors in the muscles and ligaments indicate where the arm/hand is positioned in space. NOTE: signals from the vestibular system (see previous page) also provide an internal sense about self-motion and so are often fall within a definition of proprioception information.] and peripheral viewing of the hand is sufficient to maintain control. 
+Similarly once the hands have acquired an object it is no longer fixated (the object becomes an extension of the hand). 
+The way that eye-movements are used in these tasks suggests that where possible the human system acts upon the object that is being fixated with very little recourse to memory.
+
+The functions identified by Land and Hayhoe (2001) are quite general and the way that eye-movements are used to carry out actions is largely task specific. 
+Later in this course we will cover the way that humans carry out actions such as reaching to grasp, driving and catching and you will notice that eye-movements play an important role in each, but the information supplied is quite specific to the task in hand.
+
+## References
+
+Bridgeman, G., Hendry, D., & Stark, L. (1975) *Failure to detect displacement of visual world during saccadic eye movements*. Vision Research, 15, 719-722.
+
+Carpenter R (2000) *The neural control of looking*. Current Biology, 10(8), R291-293
+
+-- Land & Hayhoe (2001) *In what ways do eye movements contribute to everyday activities?* Vision Research, 41, 3559-3565
+
+-- Liversedge & Findlay (2000) Saccadic eye movements and cognition. Trends in Cognitive Sciences, 4 (1), 6-14
+
+Martinez-Conde, Macknik and Hubel (2004) The role of fixational eye-movements in visual perception. Nature Reviews Neuroscience, 5, 229-240
+
+-- Tatler, B. W., Wade, N. J., Kwan, H., Findlay, J. M., & Velichkovsky, B. M. (2010). 
+
+Yarbus, eye movements, and vision. I-Perception, 1(1), 7–27.
+Yarbus (1967) Eye movement and vision. New York: Plenum Press. (Translated from Russian by Basil Haigh. Original Russian edition published in Moscow in 1965.)

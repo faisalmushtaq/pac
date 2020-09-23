@@ -1,0 +1,235 @@
+# How do we drive?
+
+In the next few  lectures we will consider how humans interact within ‘action space’ (see **Lecture 8** for more details about the divisions of space). 
+We will be examining two main scenarios:
+
+i) Driving (the control of locomotion) where you approach distant objects
+
+ii) Catching (the control of interception) where distant objects approach you
+
+Driving is a complex task that can be broken down into a number of subcomponents. 
+Navigation (finding/remembering a route to your desired destination) is often a crucial part of driving but this topic goes beyond the scope of this module (sign up for psyc3505 “The Spatial World” next year if interested!) Given this is a perception and action course we will be focussing on the visual-motor control aspects of driving (what visual information leads to particular motor control behaviours). 
+Early work (in the 1960’s) on drivers highlighted that visual information is crucial for driving, but that it is possible to steer for a period of time without visual input (Senders et al. 1967). 
+Using a purpose built helmet that had an occluding visor (that could be lifted to reveal the scene; see Fig 3.1) Senders et al. examined how occlusion time varied depending on various factors. 
+The graph below shows that increasing the velocity of the vehicle decreased the amount of Occlusion Time that was accepted by the driver. 
+In fact the Occlusion Distance (how far the vehicle would travel in the occlusion period) was kept relatively constant for these driving conditions, with around 30m of blind travel (see inset graph). 
+This means that the driver felt able to travel 30m before updating their view of the (straight) road ahead. 
+
+![Velocity x occlusion time](Images/L3_F1_cropped.png){width=240px}
+
+The fact that occlusion time varied according to speed to keep occlusion distance fairly constant suggests a sensitivity to the information contained in the scene and the likelihood of an update being required. 
+Of course these judgements will always be an estimate since they are based on the information available from the scene before it was occluded, so it cannot take account of any changes occurring during the occluded period. 
+For example drivers who (illegally) look down to a mobile phone when driving are performing a similar task – unfortunately this means that they will miss changes in the world ahead (such as the vehicle in front abruptly coming to a stop) that then lead to potentially fatal collisions. 
+The links between where a driver looks (e.g. scanning the environment for potential hazards such as children running into the road) and how they drive will be considered further in **Lecture 4** where we discuss how eye-movements can support steering control.
+
+![Senders et al. (1967) “The attentional demand of automobile driving”](Images/L3_F2.png)
+
+## The Core Components of Driving
+As discussed in **Lecture 1** humans have evolved to perceive and act rapidly. 
+The underlying assumption of my own research on driving is that the human system (eye-brain-body) utilises existing functions/abilities and adapts them to the requirements of a particular task. 
+I would suggest that many of the core components of driving are controlled in a similar fashion to when we were running at speed across the Savannah (our ancestors hunting gazelle, or running away from lions), and these abilities translate to a range of modern-day situations controlling self-motion at high speed, 
+e.g. when cycling a bicycle or driving a car.
+
+The central visual-motor task within driving is controlling your velocity (velocity being formally defined as having both **speed** AND **direction**). 
+In most vehicles control over speed and direction is effected independently: 
+e.g. when driving a car, speed is usually controlled via the brake and accelerator foot pedals (one for reducing speed and another for increasing speed) and direction is controlled via the steering wheel.
+
+Judging and controlling speed of approach has common themes with the timing of interceptive actions (such as catching). Speed of travel does influence your ability to successfully steer, 
+e.g. if you are driving too quickly when approaching a tight bend it can be impossible to steer around the corner without the car sliding off the road or rolling over. 
+In most cases, however, we select an appropriate speed before entering the bend and speed remains relatively constant throughout a steering manoeuvre. 
+In this lecture, therefore, we will be considering the visual-motor control task of **steering** (controlling your direction of motion).
+
+## WHAT information is available for controlling steering?
+Gibson (1958) was the first to consider ecological tasks such as steering and aiming; and approaching without collision. 
+He proposed that the task of steering could be accomplished by using properties of the “**optic flow field**”. 
+Optic flow is produced by self-motion: 
+when you move forward there is apparent motion at the back of the eye, a pattern of relative motion from all the moving texture elements from surfaces in the world (think of the pattern of the star field in the film ‘Star Wars’ when the millennium falcon jumps into hyperspace – or see the figure on
+the right). 
+Two assertions of Gibson were: 
+“the centre of the flow pattern during forward movement of the animal is the direction of movement” and “to aim locomotion at an object is to keep the
+centre of flow of the optic array as close as possible to the form
+which the object projects”. 
+The centre of optic flow has become known as the Focus of Expansion (FoE). 
+In the literature the term 'Heading' is often used to describe your current direction of motion, and in many cases the FoE indicates your direction of heading (when travelling straight ahead, your future path is aligned with your heading^[When taking a curved trajectory, however, heading and path do not align since your current heading does not match your final destination which has led to some debate as to whether steering is controlled using ‘heading’ or ‘path’ information (Wilkie & Wann, 2006).]). 
+Optic flow has, therefore, been put forward as the primary source of information used by humans to steer (Gibson, 1958; Warren & Hannon, 1988). 
+It has the advantage of being an “invariant” source of information (it is available across a multitude of environments, essentially anywhere that contains visible textured surfaces) and as such it seems to be a useful source of information for steering control for numerous animal species (e.g. Bees; Duchon & Warren, 2002)
+
+![RADIAL FLOW: Gibson (1958) proposed that to steer to the target, the animal must move the focus of expansion of the flow field (indicted by the red circle) to align the direction of motion with the steering target (yellow post).](Images/L3_F3_cropped.jpg)
+
+## Direct vs. Indirect Perception
+Part of the attractiveness of optic flow is that it provides a simple solution to a hugely complex problem. 
+Gibson pointed out that the animal *moving* through the environment simplifies the problem for the visual system and reduces/removes ambiguity of signals – making information ‘directly’ available that supports (‘affords’) action (with action being the major goal of vision). 
+The Gibsonian ‘ecological’ approach (also termed ‘Direct’ perception) proposes that information is made available by fundamental properties of the real world (‘invariants’) and the animal’s interactions with that world. 
+This can be contrasted with a Helmholtzian view: 
+Helmholtz (and more recently Richard Gregory) suggested that the ambiguity of the retinal image meant that experience (and therefore a stored representation) of the world was required in order to perceive. 
+It is certainly the case that some form of ‘inference’ underpins various features of the visual system (and this can explain various optical illusions). 
+The need for inference means that this view of perception is often labelled as ‘indirect’. 
+Gibson pointed out that many of the numerous possible interpretations of the retinal image are not consistent with lawful physical properties of the world, and in this regard, Gibson performed a valuable service in shifting the debate within perception and cognition away from cognitive reconstruction of the world, toward a consideration of the importance of action in understanding human behaviour. 
+The concept of optic flow is a useful one though the story is not as simple as Gibson would have liked (the moral being that both the Helmholtzian and Gibsonian theories of visual perception have useful aspects but are incomplete; see **Lecture 6** for more discussion of these issues).
+
+## Optic Flow vs. Visual Direction Information
+It seems that optic flow is not the ONLY information source that is used to control steering. 
+Rushton, Harris, Lloyd & Wann (1998) used a prism to shift the egocentric direction of the steering target (see Fig 3.3). 
+Importantly the use of prisms does NOT alter the optic flow information available to the walking participants (Fig 3.3 inset; because the flow is generated from the *relative* motion of all texture elements and the prism effects ALL these element equally)^[There may have been some prismatic distortion in the periphery, but subsequent experiments using VR techniques without distortions confirmed the finding (Warren et al, 2001).]. 
+If participants only used optic flow information then they should have still been able to walk straight to the target since the focus of expansion was not changed by the prisms. 
+The trajectories they actually followed were curved in a manner consistent with using the visual direction of the steering target (which had been shifted by the prism).
+
+![A prism bends the light reaching the eye making the tree seem further to the right than it really is. Inset: Top down view of eye looking through a prism – visual direction shifts but optic flow is unaffected.](Images/L3_F4_cropped.png)
+
+In order to investigate whether the type of optic flow influences the use of visual direction information Warren et al. (2001) used virtual reality techniques to revisit the experiment of Rushton et al. (1998). 
+They created scenes that varied the quality of the optic flow signal (from no flow through to very rich flow; see Fig 3.4). 
+When ground texture was added to the scene, the curvature of the path walked reduced somewhat (Fig 3.4b), adding additional textured surfaces to the scene reduced path curvatures even further suggesting that increased quality of Optic Flow information (by increasing the number of textured surfaces) made people rely less upon Visual Direction signals. 
+This research demonstrates that both Optic Flow AND Visual Direction information is used to steer since the virtual prism influenced walkers less when rich flow was available from the scene.
+
+![Warren et al (2001) showed that curved paths resulted when walkers relied on the Visual Direction of a target viewed through a virtual prism (a) but this reduced as additional textured surfaces were added to the scene (b,c,d)](Images/L3_F5_cropped.png){height=50%}
+
+## Beyond Optic Flow
+The situations considered so far capture self-motion in a fairly open environment where there are many possible routes to take to get to your goal. 
+When we move through the world, however, the routes we take are often constrained by obstacles or predefined paths (e.g. the shape of the road ahead). 
+Not only can this information indicate whether you are well positioned in your lane, but such visual markers also provides information about the where you will need to steer in a few seconds time (rather than information that is provided by optic flow which is good at indicating where you are going at that current instant). 
+We will consider the role of this sort of road edge information in the **next lecture**.
+
+## Eye Movements and *Retinal Flow*
+As discussed in **Lecture 2**, the eye moves many times a second to sample information from across the scene. 
+It turns out that eye-movements actually alter the pattern of optic flow on the retina (eye-rotations add a rotation component to the flow field; Regan & Beverley, 1982). 
+Many recent papers (especially mine) will refer to *retinal flow* rather than *optic flow* to highlight that the information available at the eye has been shaped by the eye-movements of the observer, and that the focus of expansion is not necessarily available or useful (Wann & Wilkie, 2004). 
+Sometimes these terms (Retinal Flow and Optic Flow) are used interchangeably, because they can be the same: 
+e.g. when walking forwards with head and eyes fixed, retinal flow is the same as optic flow. 
+Eye movements, however, produces retinal flow that contains additional rotation components (caused by the rotation of your eyes; see Fig. 3.5) and therefore it is the term retinal flow that best describes the information that is available to the system during locomotion. 
+Because eye movements change the optic flow pattern that occurs at the back of the eye (at the retina), the term "retinal flow" is used to describe the motion pattern that is actually available to steer.
+
+![Panel (A) shows the retinal flow pattern when moving in a straight line and the eye does not move. This is essentially the same as optic flow. Panel (B) shows the retinal flow pattern when the eye tracks a point on the ground. Adapted from Lappe et al. (1998)](Images/L3_F6_cropped.png)
+
+In the **next section** we consider these issues further to understand how eye movements might employed when driving along roads.
+
+
+## Where do we look when driving?
+
+The previous lecture considered some of the basic visual information sources available to a human moving through space (Optic Flow and Visual Direction). 
+Whilst these sources are available in most environments (so can act as invariant sources of information) there are also other environmental properties that might provide useful cues when steering. 
+Locomotor steering is often constrained by paths, trails or obstacles that limit the future trajectory. 
+One reason we are able to drive at such high speeds (e.g. on motorways) is that we have created road infrastructure to aid us – fast roads are designed to have clearly demarcated wide lanes, smooth surfaces and bends that are kept as gradual as possible. 
+These roads can be contrasted with country lanes that need to be driven at slower speeds because they are narrower, bends are tighter and more unpredictable, and lane markings are often degraded or absent.
+
+![A typical driver view in Finland (courtesy of Otto Lappi). Road edges are marked by painted white lines and changes in texture from tarmac to vegetation.](Images/L4_F1.png){width=240px}
+
+## Looking at the Tangent Point
+Land & Lee (1994) performed one of the first observational studies of where drivers look when steering. 
+They observed extensive fixation of an optical feature of the road, labelled the ‘**Tangent Point**’ (TP; location shown by a circle in Figure 4.2 and 4.3). 
+The TP is not a physical object, rather it is an apparent feature on the inside edge of a bending road, but it can be observed and fixated. 
+Land & Lee suggested that fixation of the TP provides information about the curvature of the bend, and this can be used to directly inform steering (see box below).
+
+![A still image from Land & Lee (1994) showing the location of the Tangent Point (blue dot) on the inside edge of the bending road. The contour lines indicate the proportion of time gaze fell exclusively within each zone.](Images/L4_F2_cropped.png){width=240px}
+
+### Formalising the relationship between fixating the Tangent Point AND steering
+
+If the driver fixates the tangent point then the gaze angle (here referred to using Greek letter $\theta$ (Theta)) is related to the future Curvature (C) of the road, where d is the lateral distance of the driver from the kerb (see figure to the right). 
+This can be formally represented as follows:
+
+$C = \theta^2/2d$
+
+This basically shows that holding the steering wheel at an angle proportional to gaze angle will match road curvature.
+
+![Tangent point schematic](Images/L4_F3_cropped.png)
+
+## Problems for the Tangent Point
+The idea that gaze fixation of a target can supply information suitable for steering is a useful one. 
+In some ways it is similar to using Visual Direction as outlined by Rushton et al. (discussed in the **previous Lecture**). 
+The main difference with the Land & Lee (1994) proposal is that rather than closing down the angle to the TP, you should try to maintain it (and gaze) at a constant offset. 
+There are a number of potential problems with the Land & Lee (1994) paper which you should look out for. 
+For instance of the three participants (!) one is the lead author. 
+In psychophysical experiments these numbers may be acceptable (where it is very difficult for experimenter bias to interfere with forced choice responses, and all participants are highly consistent) – but in this study it is hard to argue that this is not the case (eye-movements are susceptible to conscious control and there are many individual differences that could alter driving behaviours as well as eye-movements). 
+Another potential issue is that the roadway in the experiment was unusual – a one way road around Arthur’s seat (in Edinburgh) – so participants may have been looking as far ahead as they could (due to sloping mountainside on the inside edge of bend) and may also have been cutting corners more than usual since there is no oncoming traffic. 
+One could argue that this does not represent the average UK road driving experience. 
+Despite these criticisms this work did highlight that eye-movements may be crucial in sampling useful information for steering control, and that there may be simple control solutions based on optical characteristics of the scene.
+
+## How Essential is the Tangent Point?
+
+![Wilkie & Wann (2003) demonstrated that ‘Free’ gaze behaviours (looking wherever you liked whenever you liked) resulted in the best steering performance (more time in the central zone). A Tracking fixation (Track) on the centre of the road ahead led to performance only slightly worse than Free. Fixed gaze (Fix) in the direction of heading impaired steering, spending less time in the road centre, and more time off the road altogether.](Images/L4_F4_cropped.png){width=240px}
+
+A further issue with the Land and Lee study is that whilst the observed behaviours are consistent with the use of TP use – there was no experimental manipulation to see what happened if TP fixations were prevented. 
+A strong test of the TP theory would be a failure of steering when TP fixation is prevented. 
+To examine these issues further under more controlled conditions Wilkie & Wann (2003) examined the eye-movements of participants steering along virtual roadways to examine whether it mattered where drivers looked. 
+First they examined where drivers looked in their simulated setting - they found that drivers spent 80% of their time looking at the road centre, and only 20% of the time looking in a region that contained the TP. They also found that participants were almost as good at steering when forced to look at the road centre, as when they were free to look wherever they liked (suggesting that TP fixation was not critical to steering control). 
+In fact Wilkie & Wann developed an effective model of steering that uses ‘active gaze’ to supply information from retinal flow AND visual direction signals (the sources highlighted in the previous lecture). 
+The crucial part of the active gaze model is that to steer effectively you should *look where you want to go* since this supplies useful information for steering. 
+It is unclear why Wilkie & Wann (2003) found different gaze patterns to Land & Lee (1994) but a generous explanation (to Land & Lee) is that the roadways we used were not very ‘curvy’ and so the TP wasn’t as useful as it might have been (read Kandil et al, 2009 for some other criticisms of our work).
+
+![The findings of Wilkie et al. (2010) demonstrate that gaze fixations tend to fall on/near regions of the road that you intend to pass through 1-2s in the future. A) When asked to maintain different lane positions gaze shifted towards the part of the road the participants were trying to steer through. B) When asked to take a ‘racing line’ (i.e. start near the outside of the bend and cut the corner) gaze does fall on/around the TP but only because this is the region of the road they are trying to steer through.](Images/L4_F5_cropped.png)
+
+## If Steering is Shifted, What Happens to Gaze?
+The Wilkie & Wann (2003) study required participants to steer down the middle of the road.
+Maintaining a central lane position is a useful task to give to participants since as experimenters we then know what task they are trying to achieve and we can measure errors relative to mid-lane. 
+It could be argued, however, that this is an unnatural steering task given the propensity of drivers to cut corners. 
+To examine whether central lane positioning was an issue we performed a new study (Wilkie et al., 2010), firstly participants started in 3 different positions on the road and had to maintain that position. 
+We recorded gaze behaviours to see whether gaze patterns altered depending on where they tried to steer. 
+Indeed they did. 
+Rather than looking towards the TP gaze fixations fell on the road on a region near to where they were trying to steer (Figure 4.7).
+
+![In Wilkie et al. (2010) participants started in 3 different road positions and had to steer so as to maintain that position over time. Participants were free to look where they liked, but gaze behaviour was recorded using an eye-tracker.](Images/L4_F6_cropped.png)
+
+## If Gaze is Shifted, What Happens to Steering?
+To determine whether gaze direction was important for the control of steering I ran a study in Leeds with my final year project student (Robertshaw & Wilkie, 2008). 
+Drivers steered a series of bends of different road widths and curvatures to maximise the usefulness of the TP. 
+We recorded eye-movements but observed little fixation of the TP (compared to Land and Lee, 1994). 
+Crucially gaze patterns changed between roads of different widths/curvatures which would NOT be expected from a TP fixation strategy (gaze should have consistently fallen on the inside edge of the road irrespective of the road layout).
+
+![A composite of various computer simulated conditions used in Robertshaw & Wilkie (2008), showing two road widths (Narrow and Wide) and 5 fixation points (only 1 road and 1 fixation was visible at a time).](Images/L4_F7_cropped.png)
+
+To test whether the Wilkie & Wann ‘active gaze’ model of steering is a better description of human steering behaviour we ran a second experiment where participants had to direct their gaze towards one fixation cross. 
+This either lay at the road centre, at the TP, or at other points inside or outside the road edges (see Fig. 4.7). 
+Gaze fixation influenced the direction of steering in a manner not explained by the TP strategy: 
+i) steering was better when looking at the road centre rather than the TP. 
+ii) fixation away from the road centre caused systematic steering errors whereby steering was biased in the direction of gaze (as proposed by Wilkie & Wann). 
+It seems that active gaze information provides useful prospective information (feed-forward) about where you will be in 1-2 seconds whereas the road edge information provides strong feedback information about your current degree of error in road position.
+
+## Taking the Racing Line
+The question remains about why extensive tangent point fixation has been observed under some conditions (Land & Lee, 1994; Kandil et al, 2009). 
+In the studies that have observed TP fixation there are usually no instructions about what road position the participants are supposed to maintain. 
+The argument being that this produces ‘natural’ steering behaviour. 
+However, if the trajectories are not measured it is unclear how gaze and steering are related. 
+The Wilkie & Wann active-gaze model would suggest that looking in the general direction of the TP would occur if you are trying to cut the corner and take the ‘racing line’ (see Fig 4.8). 
+In Wilkie et al. (2010) an experiment examining this is reported, where participants either maintained an ‘outside’ road position, or steered to cut-the-corner. 
+It showed that when steering gaze was directed towards the desired position on the road (Figure 4.5b; Wilkie et al., 2010). 
+This supports the view that TP fixations are linked with taking a trajectory that is close to the tangent-point, such as when corner cutting, rather than the manner outlined by Land and Lee (1994).
+
+![When go-karting taking the ‘racing-line’ allows you to take a corner at higher speeds since it effectively reduces the curvature of the bend. Be aware that this strategy can be a bad idea for cars at urban road junctions (see inset).](Images/L4_F8.png)
+
+
+## References
+
+Gibson, J. J. (1958). *Visually controlled locomotion and visual orientation in animals*. British Journal Psychology, 49, 182-194.
+
+Lappe, M., Pekel, M., & Hoffmann, K. P. (1998). *Optokinetic eye movements elicited by radial optic flow in the macaque monkey*. Journal of neurophysiology, 79(3), 1461-1480.
+
+Regan, D. & Beverley, K. I. (1982). *How do we avoid confounding the direction we are looking and the direction we are moving?* Science, 215, 194-196.
+
+-- Rushton, S. K., Harris, J. M., Lloyd, M. R. & Wann, J. P. (1998). *Guidance of locomotion on foot uses perceived target location rather than optic flow*. Current Biology, 8, 1191-1194.
+
+Senders, J. W., Kristofferson, A. B., Levison, W. H., Dietrich, C. W., & Ward, J. L. (1967). *The attentional demand of automobile driving*. Highway Research Record, 195, 15–33.
+
+Duchon, A. P., & Warren Jr, W. H. (2002). *A visual equalization strategy for locomotor control: of honeybees, robots, and humans*. Psychological Science, 13(3), 272-278.
+
+-- Warren, W. H., Kay, B. A., Zosh, W. D., Duchon, A. P. & Sahuc, S. (2001). *Optic flow is used to control human walking*. Nature Neuroscience, 4, 213-216.
+
+Warren, W. H. & Hannon, D. J (1988). *Direction of self-motion is perceived from optical flow*. Nature, 336, 162-3
+
+Wilkie, R.M., Wann J.P. (2006) *Judgements of path, not heading, guide locomotion*. Journal of experimental psychology: Human perception and performance, 32(1), 88-96.
+
+-- Wann, J. P., & Wilkie, R. M. (2004). *How do we control high speed steering?* In Optic flow and beyond (pp. 401-419). Springer: Netherlands.
+
+Wilkie, R. M., Wann, J. P. & Allison, R. S. (2008). *Active gaze, visual look-ahead and locomotor control*. Journal of Experimental Psychology: Human Perception and Performance, 34(5), 1150-1164.
+
+Kandil, F. I., Rotter, A., & Lappe, M. (2009). *Driving is smoother and more stable when using the tangent point*. Journal of Vision, 9(1):11, 1-11
+
+-- Land, M. F. & Lee, D. N. (1994). *Where we look when we steer*. Nature, 369, 742-744
+
+-- Robertshaw, K. D., & Wilkie, R. M. (2008). *Does gaze influence steering around a bend?* Journal of Vision, 8(4):18, 1-13.
+
+Wilkie, R.M., Kountouriotis, G., Merat, N., Wann, J.P. (2010). *Using vision to control locomotion: looking where you want to go*. Experimental Brain Research, 204(4), 539-547.
+
+-- Wilkie, R. M., & Wann, J. P. (2003). *Eye-movements aid the control of locomotion*. Journal of Vision, 3(11), 677-684.
+
+Wilkie, R. M., Wann, J. P. & Allison, R. S. (2008). *Active gaze, visual look-ahead and locomotor control*. Journal of Experimental Psychology: Human Perception and Performance, 34(5), 1150-1164.
+
+

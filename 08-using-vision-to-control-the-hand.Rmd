@@ -1,0 +1,125 @@
+# Using vision to control the hand
+
+Imagine reaching out to pick up a wine glass. 
+The task depends upon the nervous system accurately gauging the distance of the wine glass from the body, determining its properties (e.g. size, weight) and generating the appropriate motor commands in response to this information.
+
+Performance typically involves coordinated movements of the fingers, wrist, arm, and shoulder. 
+Movement and force production in prehension has been widely studied in adults and methods of data collection and analysis have been firmly established in the literature.
+
+Two phases may be identified in the execution of prehension tasks: the *pre-contact* phase (prior to object contact) and the *grip-and-lift* phase (following object contact).
+
+## The pre-contact phase
+The pre-contact phase can be considered to have two functionally distinct components that are executed concurrently in a coordinated fashion: these are the transport component and the grasp component:
+
+The *transport component* describes the arm movements that place the hand into a position where it can grasp an object. 
+This phase is constrained by both the distance of an object, its size and by the context in which the prehension act is performed. 
+The transport phase is also dependent upon the coupling that exists between the body and the hand (e.g. the relationship between the shoulder, elbow and hand).
+
+The *grasp component* describes the pre-shaping of the fingers and thumb into a grasp configuration tailored to the object. 
+The characteristics of the object, such as its size, shape, weight and surface texture affect both the planning and execution of the grasp component of prehension.
+
+The *rotation component* describes the orienting of the grasp configuration so that the fingers and thumb are guided to the appropriate contact points on an object. 
+The characteristics of the object, such as its shape and centre of mass affect both the planning and execution of the rotation component of prehension.
+
+Skilled performance involves coordination of the concurrently executed transport, rotation and grasp components and their mutual tailoring to task variables (task goal, presence or absence of visual feedback, workspace layout, object distance, size, shape, weight and surface characteristics). 
+Such tailored responses have been found to be highly robust and replicable in healthy adults and reflect the invariant structure of sensori-motor organisation in prehension: i.e., the underlying movement structure that remains the same despite variations in the conditions of execution. 
+Perturbation experiments have demonstrated that the nervous system attempts to preserve this structure when environmental conditions are altered during execution.
+
+## The spatial path of the transport component
+How does the nervous system choose which path the hand should take when moving between two locations? 
+It is apparent that there are a countless number of possible routes open to the system. 
+The fact that the same result can be produced in many different ways means that the system possesses ‘redundancy’. 
+A redundant system is flexible and adaptable – if one way is blocked another can be chosen.
+Nonetheless, when you are free to choose you do not want to be like Buridan’s ass trapped motionless between apparently equal choices. 
+What you need is something that helps you make a choice. 
+One possibility is to have a default model that allows simple control according to the demands of a task.
+
+A number of investigators have explored the path followed in prehension movements. 
+The general finding is that hand paths are straight in completely unconstrained movements (e.g. moving from one location in free space to another).
+
+## The spatial pattern of the grasp component
+Typically, the hand opens to a maximum aperture at about 70% of the movement time. 
+A reliable relationship exists between maximum aperture and object size. 
+This relationship is almost invariably found to have a gain of about 0.82 (median value from 35 separate studies on prehension) although the bias varies between studies (the median off-set reported for the same 35 studies was 5.2 cm).
+There may be a few reasons why the hand opens to a wider aperture than the object:
+
+i) it allows for an unobstructed view of the object;
+
+ii) it maximises the ability of the system to use on-line visual feedback to correct end-point error;
+
+iii) it is better for the system to err on the side of safety (i.e. for the aperture to be too wide towards the end of the movement than too narrow).
+
+## The timing of the transport component
+Fitts' law describes the speed-accuracy trade-off in aiming tasks (moving a single finger) as follows:
+
+$MT = a + b log_2 (2A/W)$
+
+where MT is movement time, a and b are constants which depend upon the individual and the task, A is the movement amplitude and W is the target width and $log_2 (2A/W)$ is referred to as the index of difficulty (ID).
+
+There have been literally hundreds of experiments providing empirical support for Fitts’ law — there is no doubt that the ‘law’ describes the mean behaviour of a group carrying out a certain type of aiming movement. 
+The problem with the law, however, is that it provides a very poor fit for an individual’s data. 
+The basic problem is that the effect of distance (further targets take longer to reach) and target size are confounded by being considered as one combined parameter. 
+Instead, the following type of expression better captures the speed-accuracy trade-off:
+
+$MT = a + b log_2A +c log_2W$
+
+Thus, we need to think about movement amplitude (distance) and target size as two separate variables affecting movement time.
+
+The question then arises as to whether prehension movement time increases in a lawful manner as the distance of an object gets larger. 
+The answer to this question is positive - the time to reach-to-grasp an object is a function of the object’s distance. 
+The second question is then whether target size also affects prehension movement time. 
+This is a slightly more complicated question, as we must first 49 define target size in a prehension task. 
+If we define the target size as the area available for the digits to contact then we do find a lawful relationship between target size and movement time.
+
+## What does MT= a + b log2A + c log2W actually mean?
+MT is movement time, a, b and c are constants which depend upon the individual and the task, A is the movement amplitude and W is the target width. 
+
+The equation means that three factors are added together to determine MT:
+‘a’ plus ‘b log2 A’ plus ‘c log2W’
+
+‘a’ is just a constant (a single number) - perhaps 100ms - which might be less for some individuals and more for others. 
+It might be shorter for some (easy) tasks and longer for other (harder) tasks.
+
+If you take the factor ‘b log2 A’ this indicates that you multiply another constant (in this situation ‘b’) by the log of movement amplitude - i.e. how far the person needs to move. 
+The constant is again different for different individuals and different tasks but you can see that regardless of the value of ‘b’ the movement time will get longer the further someone needs to move.
+
+If we take the final factor ‘c log2 W’ then we've got another constant - same idea as the other two constants (i.e. different for different individuals and different tasks).
+
+The point about ‘log2(W)’ is that the smaller the target width (‘W’) the bigger this number. 
+So you multiply the constant ‘c’ by ‘log2(W)’ and the smaller the target the bigger this number - meaning that it takes longer to move to smaller targets. 
+Instead of writing ‘log2(W)’ we could have written ‘1/W’ (1 divided by ‘W’) which also works but doesn't predict MT as well as ‘log2(W)’.
+
+All of this captures the fact that it takes longer to reach to further targets and longer to reach to smaller targets. We add the increases in time together when Amplitude increases and Width decreases and this allows us to predict the changes in an individual's Movement Time as a function of a change in the task.
+
+## The contact phase
+The issue of what the hand does when it eventually gets to an object (as we have been only considering how the hand gets there until now). 
+This brings up one of the important concept - internal models.
+
+## Programming fingertip forces
+Lifting an object requires the programming of an appropriate grip (normal) and load (tangential) force.
+A series of elegant experiments have indicated that these forces are programmed in advance of the actual lifting movement, are adjusted in parallel, and are scaled to a 'target force'.
+
+Once the finger and thumb have contacted an object there is a small grip force increase.
+This phase is known as the preload phase and establishes a hold on an object prior to the onset of positive load force increase. 
+Following this there is a parallel grip and load force increase during the loading phase.
+Once the load force overcomes the gravitational force on the object, the object is lifted from its support and the force increase is terminated. 
+The object is then transported to the desired position during the transition phase and is held stationary during the static phase.
+
+It has been demonstrated that the scaling of the target force is based upon a representation of the weight of the object in a previous lift. 
+It has also been demonstrated that visual size cues influence force production but that the influence of visual size falls rapidly as a memory representation becomes available (Mon-Williams and Murray 2000).
+
+## Internal models
+Mike Jordan from MIT originally suggested that the nervous system must use internal models to either predict the consequences of commands or to determine the commands required to produce a desired trajectory. 
+In support of these suggestions, there has been overwhelming support for the presence of internal models. 
+Some of the best evidence comes from work done by Flanagan and Wing which has shown that individuals precisely modulate their grip force as they raise and lower an object — suggesting that the system can predict precisely the movement induced load (which is a function of the movement of the arm and the object held in the hand). 
+Flanagan and Wing further showed that grip force anticipated fluctuations in load force even when they introduced marked variations in the form of the load function.
+
+## References
+
+-- Flatters, I. J., Otten, L., Witvliet, A., Henson, B., Holt, R., Culmer, P., Bingham, G. P., Wilkie, R. M., Mon-Williams, M. (2012). *Predicting the effect of surface texture on the qualitative form of prehension*. PLoS ONE, 7(3), e32770. doi:10.1371/journal.pone.0032770.
+
+-- Gordon, A. M, Charles, J.,. & Duff, C. J. (1999). *Fingertip forces during object manipulation in children with hemiplegic cerebral palsy. II: bilateral coordination*. Developmental Medicine & Child Neurology. 41(3), 176-185.
+
+-- Holt, R. J., Lefevre, A. S., Flatters, I. J., Culmer, P., Wilkie, R. M., Henson, B. W., Bingham, G. P., Mon-Williams, M. (2013). *Grasping the changes seen in older adults when reaching for objects of varied texture*. PLoS One, 8 (7), pp. e69040.
+
+Mon-Williams, M., Murray, A. H. (2000). *The size of the visual size cue used for programming manipulative forces during precision grip*. Experimental Brain Research, 135, 405-410.

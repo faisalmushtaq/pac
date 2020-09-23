@@ -1,0 +1,208 @@
+#  Vision - What is it good for?
+## Processing information
+In the previous lecture notes we considered how information flows from the retinae through pathways into the cortex. 
+It is worth now drawing your attention to some features of the manner in which the brain processes information. 
+First, we can see a high level of specialisation. 
+For example, the rods and cones are stimulated by light that has different physical properties. 
+Likewise, there are two distinct pathways that channel information towards the cortex (the M and P pathways). 
+Second, we can see that information is processed in parallel. 
+Information flows down the M and P pathways concurrently- the information doesn’t flow down the M pathway and then into the P channel. 
+Finally, we can see that there is a hierarchical arrangement to the manner in which the information is processed. 
+The output of particular processing plants is channelled to other processing plants ‘downstream’ of the original retinal input. 
+These features appear to be reflected in numerous aspects of neural organisation and we will see that these concepts are important when we consider cortical organisation.
+
+The idea of information flowing down the neural pathways provides us with a useful framework for considering the anatomical organisation of the visual system. 
+Nevertheless, it is a somewhat misleading notion as it ignores the enormity of the task facing the human brain. 
+In order to start understanding how the brain can construct a stable representation of the world from noisy and ambiguous images, it is important to realise that visual perception works because photons bounce off physical structures in a lawful manner. 
+This means that the field of reflected photons contains information- information that begins to be processed at the retina.
+
+It is important to realise, however, that this information isn’t easily accessible. 
+A coded message can contain large amounts of information but without the appropriate decoder it is nothing but gibberish. 
+It is necessary for us to consider the incredible task facing the nervous system as it attempts to extract information from a collection of incoming nerve impulses (at the end of the day, a rod or cone simply produces an electrical pulse or stays silent- the miracle of human perception is that such simple inputs allow us to construct a colourful three dimensional world).
+
+## A fundamental problem
+We'll begin by considering the problems involved in producing a representation of the visual world. 
+The problems faced by the nervous system cannot be overstated and are encapsulated in the 'fundamental problem of vision':
+
+**The fundamental problem of vision is that the image at the eye has countless possible interpretations.**
+
+How does the brain solve the problem? 
+The answer is that the brain uses a large number of rules to construct visual scenes from retinal images.
+
+Look at the image of the ‘Necker cube’ (*Figure 1*)
+
+![Necker's Cube](Images/L7_F1.png)
+
+It is almost certain that you see a three dimensional image of a cube even though the 'cube' is simply a set of two-dimensional lines drawn on a flat sheet of paper. 
+The reason that you see a 3-D cube is because your brain follows certain rules and ends up 'constructing' this object from the retinal image. 
+You will note that your brain doesn't always construct the same image— sometimes A looks the point on the cube closest to you and sometimes B looks the closest point.
+
+So— what rules does the brain use? 
+The complete answer to this question is not yet known (it keeps a lot of vision scientists busy) but some rules have been discovered and these rules can explain why we see flat 2-D drawings like the Necker cube in 3-D (and why you sometimes see A at the front and sometimes B). 
+This course isn't about vision science so we'll not consider what rules are known apart from one of the most important rules: 
+the rule of generic views. The rule of generic views states that the brain only constructs those visual worlds for which the image is a stable (i.e., generic) view.
+
+The ambiguity of retinal information can be readily seen when we consider the relationship between the size of the retinal image (retinal size) and the physical size of an object in the world. 
+In the figure below, it can be seen that a variety objects of different size (S1, S2, S3) at different distances (Z1, Z2, Z3) all subtend the same degree of visual angle at the back of the eye (r) :
+
+![A comparison of physical and retinal size.](Images/L7_F2.png)
+
+Emmert (1881) demonstrated that the perceived size of an afterimage viewed against a surface depends upon the perceived distance to the surface. 
+From this observation is derived Emmert’s law: *perceived size is a function of perceived distance*. 
+Emmert's law thus accounts for size constancy—objects do not appear to change size as they approach or recede from an observer because the nervous system uses information about the object's distance when determining size.
+
+*The important point is that the brain seeks to obtain a stable and self-consistent representation of three-dimensional visual space from the information it receives.*
+
+## The nature of visual processing
+A consensus has been reached regarding the nature of visual information processing:
+
+i) The goal of visual processing is the formation of an economical representation of the visual world.
+
+ii) The representation is formed through a modular analysis that is both parallel and hierarchical.
+
+We'll now consider the form of the visual representation.
+
+First, there is now wide agreement that different visual attributes (e.g. colour, motion, orientation) are analysed in a somewhat independent manner (i.e. in a modular fashion). 
+The most influential evidence for this comes from physiological and anatomical studies of visual cortex in monkeys. 
+Other evidence has come from neuropsychological studies showing that damage to different parts of the visual cortex produces specific visual deficits.
+
+Second, it is also widely agreed that processing within the cortex is parallel in nature. 
+Parallel architecture allows the computational load to be divided amongst multiple mechanisms acting concurrently — thus allowing the system to obtain a faster result. 
+Good evidence for the parallel nature of visual processing is provided by 'visual pop-out'— searching for a target amongst a field of distracters can be effortless (the target just 'pops-out') if different modules process the target and distracter features.
+
+Third, the system is thought to be hierarchical in nature. 
+This means that different modules can represent not only different *kinds* of analysis but different *levels* of analysis. 
+Hierarchical organisation is beneficial to the system because different modules need not duplicate the machinery required for shared components of the analysis. 
+The evidence for hierarchy comes primarily from neurophysiological work (a hierarchy of neurons has been reported by a number of researchers).
+
+## Two visual streams
+We can see the general rules governing cortical organisation (modular, parallel and hierarchical) when we consider information processing after V1.
+
+It is thought that there are two different visual processing streams in the primate cortical system: 
+one stream (ventral) appears to be involved in information processing underpinning conscious perceptual judgements whilst the other (dorsal) is involved in information processing underpinning action control (e.g. Bridgeman et al. 1979; Goodale et al. 1991). 
+The primary evidence for the different functions of the two visual streams comes from neuropsychological studies. 
+David Milner and Mel Goodale conducted the most famous experiment with the help of a patient with *visual form agnosia* (DF). 
+DF experienced carbon monoxide poisoning in 1988 with subsequent structural MRI scanning revealing a dense bilateral lesion in lateral pre-striate cortex. 
+DF is unable to recognise objects and yet can interact with the very objects she fails to recognise. 
+In contrast, patients with *optic ataxia* are able to recognise objects and yet are unable to generate skilful purposive movement towards those recognised objects (despite the ability to generate movement).
+
+Milner and Goodale used their results as the basis for proposing the 'two visual streams hypothesis'. 
+According to this hypothesis, "we have two (largely) separate visual systems. 
+One of them is dedicated to the rapid and accurate guidance of our movements: 
+it is a complex and powerful system, and yet it lies outside the realm of our conscious visual awareness. 
+The other seems to provide our perceptual phenomenology, although its primary purpose is probably to provide suitably coded visual inputs for storage in and retrieval from memory" (Milner and Goodale 1995).
+
+## Object recognition
+Humans are remarkably proficient at recognising objects. 
+First, we are skilled at being able to determine whether we’ve seen an object previously (a process known as ‘perceptual categorisation’). 
+Secondly (and even more impressively), we are often extremely capable at naming objects and people and identifying their function or relation to us (a process known as ‘semantic categorisation’). 
+Thus, humans have highly developed neural systems dedicated to visual memory. 
+In light of the previous lectures, I don’t think you will be surprised when I tell you that there are some fundamental difficulties that the nervous system must overcome if it is to succeed at this task.
+
+Object recognition is a difficult task for the nervous system because of the problem of **stimulus equivalence**. 
+Stimulus equivalence refers to the fact that there are a countless number of possible retinal images that can correspond to a particular object.
+
+One way of dealing with the stimulus equivalence problem is to detect something relatively simple that all images corresponding to a particular object have in common. 
+It is known that some creatures (e.g. the stickleback) use such a strategy— male sticklebacks will show aggressive behaviour to a crude model with a red belly (males have red bellies) but not to a more accurate model without the red belly.
+
+The problem with such simple strategies is that they lack flexibility and are prone to error. 
+It is clear that the human nervous system implements more complex solutions to the stimulus equivalence problem. 
+There is some evidence that object recognition is innate to the human nervous system (neonates prefer to look at face like patterns) but it is primarily through learning that human object recognition is refined. 
+This leaves us with the question of how does the nervous system learn to recognise objects?
+
+Various accounts of object recognition have been given (no consensus exists regarding the actual mechanism). 
+One early suggestion regarding object recognition was that the nervous system contained individual neurones selective for every view of an object (so called 'grandmother cells'). 
+This solution was criticised on the basis that it would require an unpractical number of neurones and would be highly susceptible to damage (i.e. if one cell died you would lose the ability to recognise your grandmother). 
+Interestingly, this vilified suggestion is now being revisited and a modified version of the basic idea appears to provide a reasonable account of human object recognition.
+
+## Object recognition physiology
+We have considered the fact that the ventral stream (terminating in the inferior temporal lobe) appears to be responsible for tasks such as object recognition. 
+In line with this conception, the inferior temporal cortex is known to contain cells that are selective for complex combinations of object features. 
+**Inferotemporal neurones** demonstrate very useful invariant properties for the recognition of objects (i.e. they fire despite changes in position, viewing angle, image contrast, size, spatial frequency content) and also provide evidence of (almost instantaneous) learning in the recognition system.
+Furthermore, 5% of cells in this region are selective for faces. 
+It is important to note that face selective cells do not respond to specific faces but to a subset of all faces (in line with the notion that object encoding is achieved via *ensembles* of simultaneously firing nerve cells that represent all objects).
+
+## Object recognition neuropsychology
+Three neuropsychological conditions are of note with regard to object recognition. 
+Damage to the right posterior cortex can result in **apperceptive agnosia**. 
+Patients with apperceptive agnosia experience difficulties when trying to recognise objects from unusual views. 
+Warrington (1986) suggested that patients with apperceptive agnosia have difficulties in inferring or extracting features from a limited perceptual input. 
+Warrington suggested that apperceptive agnosia is a deficit of perceptual categorisation and postulated that this process might therefore occur in the right hemisphere.
+
+Lesions in the left hemisphere can result in **associative agnosia**. 
+Patients with associative agnosia are able to recognise objects in isolation but are unable to link two objects that share the same function (e.g. an open and closed umbrella). 
+Warrington suggested that patients with associative agnosia have a problem with the process of semantic categorisation (a process thus postulated to occur in the left hemisphere).
+
+Damage to the inferotemporal lobe can cause prosopagnosia. 
+**Prosopagnosia** is characterised by a nearly normal ability to recognise common objects but an inability to recognise people's faces. 
+Prosopagnosia was taken as evidence for the existence of selective face cells. 
+More recent evidence suggests, however, that prosopagnosia may be due to a more general deficit in the fine level discrimination of objects with which we are extremely familiar. 
+I would suggest that the mechanisms used by humans to process faces are not special (i.e. the same mechanisms can process non-face objects) but rather faces are of special importance to humans.
+
+## Categorising faces
+One fundamental concept that we have tried to impart over this lecture series is that an understanding of perception requires a consideration of evolution. 
+The evolutionary advantages of having an efficient visual memory system are almost immediately apparent. 
+The ability to recall that some objects cause pain whilst others provide food is invaluable. 
+Evolution can hardwire some of these associations into the nervous system but a system that has the flexibility to learn throughout life will have an evolutionary edge over a rigid and inflexible arrangement.
+
+Let’s now consider the practical advantages of recognising and categorising faces. 
+The ability to recognise a face has clear benefits. For a start, parents wanting to invest in their genetic offspring would be well advised to recall who they should be nurturing. 
+Likewise, offspring need to remember to whom they should turn when they require food (or help with student overdrafts etc.). 
+Moreover, a number of species (including humans) are social creatures and work cooperatively - such cooperation often makes good evolutionary sense (especially with individuals who share similar genes - relatives). 
+The ability to recognise individuals within a social network (and remember their position within the pecking order) is of fundamental importance if a social grouping is to work well. 
+Nevertheless, these factors are all secondary to the biggest factor underpinning evolutionary success stories - the big challenge is ensuring that one’s DNA is passed down subsequent generations. 
+Thus, one of the most fundamental biological tests facing an individual is selecting a mate that will give your DNA the best chance for a prosperous future.
+
+The preceding consideration raises the issue of how we choose a suitable mate. 
+It makes sense that evolution will have set up certain constraints that guide us towards selecting sexual partners who are most likely to ensure that our DNA has good prospects. 
+These constraints can be examined by investigating the matter of what faces we find most attractive (i.e. what faces might tempt us to share our bodily fluids).
+
+It has been known for at least a century that humans rate ‘average’ faces as attractive. Galton (1907) tried merging a set of criminal faces to discover the prototypical criminal face but ended up with a fairly pleasant looking face! 
+This finding led to the widespread and longstanding conclusion that average is attractive - but the story turned out to be more complicated as first indicated by Dave Perrett.
+
+Perrett et al (1994) took a collection of 60 female face pictures and asked observers to rate these faces for attractiveness. 
+Perrett et al then used computer techniques to produce three composite ‘average’ faces. 
+The first composite was the average of all the faces (‘average’), the second composite was a combination of the 30 most attractive faces (‘attractive’) and the third composite was the average of the 15 most attractive faces (‘highly attractive’). 
+Perrett et al then asked another set of observers to rate the three composites for attractiveness. 
+It was found that the ‘highly attractive’ face was rated above the ‘attractive’ face that was, in turn, rated above the average face. 
+This finding was established in both Scotland and Japan (using Japanese faces) suggesting that there are some general rules governing our decisions about when a face is attractive.
+
+The Perrett et al (1994) study did not address what features caused observers to rate faces as more attractive. 
+In a follow up study, Perrett et al (1998) took a series of male faces and a series of female faces and produced an average composite of a male and female face. 
+Perrett et al were then able to produce software that allowed participants to alter the femininity of a face. 
+Participants were asked to manipulate faces in order to make them optimally attractive. 
+Perrett et al (1998) found that the optimally attractive female face was more feminine than the average configuration for a female face AND this was also true for the male faces. 
+Moreover, masculine faces were reported as being less trustworthy.
+
+The Perrett et al (1998) finding is somewhat surprising as females of non-human species generally prefer to mate with males who have increased masculine traits. 
+It transpires, however, that women alter their ratings of facial attractiveness over the menstrual cycle. 
+Penton-Voak et al (1999) found that women have a bias to prefer more masculine faces during the follicular phase when compared to the luteal phase of the cycle. 
+Penton-Voak et al (1999) interpreted this finding as indicating that women have a preference for good DNA when conception is most likely but a preference for loving caring men once conception has occurred!
+
+It’s worth pointing out at this stage that these biases in people’s preferences may be systematic and reflect underlying biological processes BUT humans are a strange species and our behaviour is a multi-faceted process - a good or bad sense of humour can probably wipe out most of the effects described above!
+
+## References
+
+Bridgeman, B., Van der Heijden, A. H. C. & Velichkovsky, B. M. (1994). *A theory of visual stability across saccadic eye movements*. Behavioral and Brain Sciences, 17, 247-292.
+
+-- DeBruine, L. M., Hahn, A. C. & Jones, B. C. (2016). *Perceiving infant faces*. Current Opinion in Psychology, 7, 87-91.
+
+-- DiCarlo, J. J. & Cox, D. D. (2007). *Untangling invariant object recognition*. Trends in Cognitive Sciences, 11, 333-341.
+
+Emmert, E. (1881). *Größenverhältnisse der Nachbilder*. Klinische Monatsblätter für Augenheilkunde und für augenärztliche Fortbildung, 19, 443-450.
+
+Galton, F. (1907). *Vox populi*. Nature. 75, 450-451.
+
+Goodale, M. A., Milner, A. D., Jakobson, L. S. & Carey, D. P. (1991). *A neurological dissociation between perceiving objects and grasping them*. Nature. 349, 154–156.
+
+-- Körding, K. P. & Wolpert, D. M. (2004). *Bayesian integration in sensorimotor learning*. Nature, 427, 244-247.
+
+Milner, A.D. & Goodale, M. A. (1995). The visual brain in action. 2 edn. Oxford: Oxford University Press.
+
+Penton-Voak, I. S., Perrett, D. I., Castles, D. L., Kobayashi, T., Burt, D. M., Murray, L. K., & Minamisawa, R. (1999). *Menstrual cycle alters face preference*. Nature, 399, 741–742.
+
+Perrett, D. I., et al. (1998). *Effects of sexual dimorphism on facial attractiveness*. Nature. 394, 884–887.
+
+Perrett, D. I., May, K. A., Yoshikawa, S. (1994). *Facial shape and judgements of female attractiveness*. Nature. 368, 239-242.
+
+Warrington, E. K. (1986). *Visual deficits associated with occipital lobe lesions in man*. In: Chagas G, Gattass R, Gross C, eds (pp. 247-261). Experimental Brain Research Supplementum 11.

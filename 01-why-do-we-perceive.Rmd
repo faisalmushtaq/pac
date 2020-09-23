@@ -1,0 +1,124 @@
+# Why do we percieve?
+
+Evolutionary pressures have shaped your present existence, including the ability to carry out behaviours that ensure that you can find food, avoid predators, with the main goal of successfully reproducing (and passing on your genes). 
+Psychology is the study of behaviour, and we examine these behaviours because they have been (and continue to be) essential to ensure the survival of our species. 
+Behaviours such as finding food and a mate whilst avoiding predators are aided by our ability to perceive and act on the world. 
+In short we perceive to survive: without perception and action we would not be here.
+
+What’s the evidence for this? 
+Well there are a couple of ways to examine this idea. 
+We’ll start by looking at the perceptual system of an animal that is initially mobile but changes its behaviour dramatically. 
+The ‘sea squirt’ starts life swimming around in the sea, but eventually finds a rock on which to permanently implant itself. 
+When swimming it has a rudimentary nervous system, but once implanted the first thing it does is to digest its tail and brain. 
+It becomes a non-motile tube that filters water to eat, and has no perceptual system to speak of. 
+This demonstrates that without action an animal doesn’t need a perceptual system or even a brain.
+
+Perhaps at this point it is worth defining the term “perceptual system” and other associated terminology. 
+Perception occurs within a given modality: a class of stimulus determined by the type of energy sensed by specialised receptors. 
+A perceptual system is comprised of these receptors, their central pathways and target areas in the brain. 
+There are different types of perceptual energy detected in the human using different receptors:
+  
+- Light energy (vision)
+
+- Chemical energy (taste & smell)
+
+- Heat and Tactile energy (skin organ)
+
+- Energy from waves of air pressure (audition)
+
+- Body motion (vestibular system & proprioception)
+
+At the beginning of these notes we suggest that perception and action are crucial to the continued survival of many species. 
+We can test this claim further by examining the perceptual systems of animals that move through different environments. 
+Whilst animals use perceptual energy of all kinds, for many light energy is crucial. 
+Why might this be? 
+A couple of reasons spring to mind: 
+i) Light is generated from an external source that is reliable and available for long periods of time (i.e. during the day) at no cost to the individual animal, and 
+ii) Light travels quickly across long distances, and when it collides with a surface it is often altered (depending upon the surface material; e.g. coloured objects absorb some wavelengths of light and reflect others). 
+These properties make the information available from light energy particularly useful to daylight creatures – for determining what the object it is (object identity) and where an object is in the world (spatial location).
+
+Some animals do rely on alternative sources of energy, for example many bats use sound waves and echolocate when flying. 
+In this case the bat has to generate its own source of perceptual energy by emitting a high-pitched squeak (the equivalent in light energy terms of having a torch that you can flash in a particular direction) but there is some cost to the bat (i.e. there is effort in making the noise). 
+So why do they do this? Well their main source of food comes out at night (when there is little light energy available) so they have evolved to utilise an alternative source of perceptual energy. 
+It is also likely that by coming out at night they manage to avoid many potential predators that are above them in the food chain, that rely upon light energy to be able to hunt effectively. 
+This shows, therefore, that fundamental characteristics of a species can be shaped by the environment within which they perceive and act.
+
+![Image of a bat](Images/L1_F1.png)
+
+## How NOT to think about Visual Perception
+While sound energy can be used by many species the perception of light energy is of particular importance to most mammals. 
+Humans are predominantly visual animals with large brain regions dedicated to selectively processing and integrating visual information. 
+Light has helped us to find food but also to avoid predators, as well as coping with evolutionary pressures such as finding a mate. 
+In Lecture 8 you will examine some of the types of visual information that allow us to perceive a coherent three-dimensional world that we can successfully interact with.
+
+One reason that we do not recommend a core text-book for this module is that usually these books include a number of erroneous concepts about visual perception. 
+For a start most books approach this area from the outside as simply “Sensation and Perception” as if these are two distinct and divisible processes. 
+This framing suggests that there is some definite point at which sensations are converted into a complete perception – at which point cognition can be brought to bear upon these perceptions which will then be used to inform the performance of an action.
+
+If only it were so simple. 
+Not only does this labelling suggest that the functions can be cleanly separated, but also that there is no interaction between them, with processing occurring in a neat linear order without any adjustment of earlier functions based on those that occur later (feedback). 
+Throughout this module we will try to convince you that distinctions between sensation, perception and action are arbitrary and by treating perception and action as a tightly integrated feedback loop the capabilities of human behaviour can be captured.
+
+Part of the fallacy linked with treating sensation as a stand-alone function is that the eye is often explained with reference to a camera. 
+The figure on the right shows how in a camera light passes through a lens which focusses the light onto a receptive area (either light-sensitive film in an old style camera, or onto a CCD in a digital camera which converts the light into electrical impulses that are then stored to memory). 
+Whilst there are some superficial similarities between these systems, this view is too simplistic in that it ignores many critical characteristics of the eye. 
+It should not be forgotten that the eye is a living organ. It is part of a noisy biological system that picks up imprecise signals from light bouncing off surfaces in the world. 
+Our eyes develop, change and become diseased, as humans age the lens of the eye hardens. 
+Despite such changes and noise the human brain manages to support skilful interactions with the world. 
+It does this using ‘estimates’ that can be refined through interacting with the world, rather than using precise information.
+
+![Schematic of the visual system](Images/L1_F2.png)
+
+It is possible to ‘fool’ the perceptual system by creating conditions where it is not possible to interact with the world and this leads to many well-known visual illusions. 
+The most ubiquitous example is video (‘moving pictures’): 
+by rapidly presenting a series of static images in series we are able to ‘trick’ the visual system to see objects moving through the world. 
+Why does this work? Because we have evolved to rapidly extract useful information for carrying out actions, and so we selectively sample and filter visual information. 
+A standard frame rate of 24 frames per second (fps) is used for most films which is sufficient to integrate the images together to see a coherent whole. 
+If there had been an evolutionary pressure on the human visual system to obtain an updated image of the world faster than this (referred to as temporal resolution) then we would see through such illusions. 
+The illusion works because detecting changes that occur so quickly has not been necessary for our survival. 
+And there is a cost to increasing temporal resolution - it would require greater processing power so further resources dedicated to this task. 
+Other illusions occur for the same basic reasons: 
+because of sampling and filtering^[In Lecture 9 you will encounter the ‘size-weight’ illusion which provides another powerful example of the way in which our perception of the world can be fooled despite our interactions with it.]. 
+This filtering starts at the eye and continues through distinct brain regions that process colour, form and motion separately (information which gradually become integrated). 
+A basic example of filtering is that the light energy visible to humans is a tiny proportion of that available in the environment: 
+we filter out that which we do not need by simply not detecting it. 
+Other creatures that do find this information useful can detect light in the ultra-violet (e.g. bees) or infra-red (e.g. snakes) bands, and it has presumably aided their survival.
+
+![High/Low spatial resolution](Images/high_low_res.png){width=50%}
+
+The eye filters information in another way that distinguishes it from a camera. 
+The spatial resolution of a camera is equally distributed (e.g. a 4 megapixal camera with a spatial resolution of 2272 x 1704 has as many pixels representing detecting light at edge of an image as it does in the middle) whereas on the retina the resolution (and type of sensor) changes. 
+There is a small region of extremely high spatial resolution called the fovea upon which we direct the most useful light energy, but in the periphery our spatial resolution (acuity) is poor (e.g. try reading this text when looking at the figure on the right – you won’t be able to see the letters as anything but blurred blobs). 
+This leads us to consider another important characteristic of the eye: it can move around (it can rotate, and it is mobile).
+
+![Visual acuity x distance from fovea](Images/L1_F4.png)
+
+## Active Perception
+A primary purpose of perception is to support action. 
+This means it has to be rapid in order to be useful. 
+Rather than painstakingly (and very accurately) detecting all possible types of information from the environment our perceptual system has filters – it works on a subset of information to provide estimates that can be refined by actively and selectively sampling information. Filtering and sampling are tightly linked:
+
+- Sampling is an active process of picking up useful information.
+
+- Filtering is an active process of selectively keeping and passing on useful information, but discarding the rest of the information.
+
+Eye-movements are an essential part of sampling information since they put the most interesting visual information onto the highest resolution part of the retina: 
+the fovea. 
+The use of eye-movements will be a recurrent theme during this module since they shape many interactions with the world: 
+exploring the scene, picking up objects, moving through the environment. 
+Because of their importance for the successful control of skilled actions **Lecture 2** will be dedicated to examining the characteristics of eye-movements.
+
+## Why is Perception and Action Important?
+Hopefully by now we have convinced you that humans are active “perceptual predators” hunting out information useful for survival, and also that it is necessary to consider action in order to understand perception. 
+But you may be sat there wondering why it is worth investigating these topics at all. 
+A key motivator in investigating how skilled actions are performed so effortlessly by so many, is in order to help those that are unable to interact skilfully with the world. 
+In our research we focus on two main groups that struggle to interact with the world: 
+i) children who fail to develop fully their motor skills and 
+ii) patients who have lost their skills after brain injury (e.g. stroke). 
+By understanding perception and action we can start to evaluate and shape strategies for rehabilitation and training of these groups.
+
+**Interesting (and somewhat relevant) Online Resources:**
+
+- [Bees using Ultra Violet light](http://jeb.biologists.org/cgi/content/full/208/12/i-a)
+
+- [An article on the impact of different frame rates on perception](http://www.tested.com/art/movies/452387-48-fps-and-beyond-how-high-frame-rates-affect-perception/)

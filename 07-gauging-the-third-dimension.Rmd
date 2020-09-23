@@ -1,0 +1,209 @@
+# Gauging the third dimension
+
+Human vision begins with the images of objects on the retinae, but knowledge of an image's retinal position is not sufficient for determining the location of a particular object with respect to a hand or the body. 
+Object localisation requires knowledge of ocular position with respect to the head, and head orientation with respect to the shoulders. 
+The important point that you should grasp at this stage is that *it is necessary to know the direction of the eyes in the head to gauge egocentric direction (egocentric direction means the direction relative to yourself)*. 
+Nevertheless, we are not going to deal with the topic of how the nervous system senses ocular position for the purpose of gauging direction. 
+Instead, we will consider egocentric distance perception (gauging the distance of an object from your body). 
+In order to interact skilfully with objects in the environment (e.g. reaching-to-grasp a cup) it is necessary to perceive the ‘third dimension’ but...
+
+**The fundamental problem of gauging distance** is that the image at the eye has two dimensions and thus has countless interpretations in three dimensions.
+
+The issue of distance perception is closely related to the topic of ‘layout’ perception. 
+The perception of layout refers to how we see and understand the layout of objects in the world around us. 
+The perception of layout is often referred to as ‘depth’ perception but ‘layout’ is a more precise term. 
+If we consider the perception of layout we hit another fundamental difficulty:
+
+**The fundamental problem of gauging layout** is that the image at the eye has two dimensions and thus has countless interpretations in three dimensions.
+
+It is important to distinguish between distance perception and the perception of layout. 
+I’ve already indicated that the two processes are highly related but this does not mean that they are equivalent. 
+In my opinion, it is possible to have distance perception in the absence of any perception of layout (gauging the distance of a single object in the dark) but impossible to have a perception of layout in the absence of distance perception. 
+I like to think that distance perception is concerned with gauging the distance of the point of fixation (where my eyes are pointing) and providing an anchor point to which the position of all other objects can be related. 
+Notably, the position of all objects away from my point of fixation can provide me with information regarding fixation distance whilst some information regarding layout requires knowledge of fixation distance in order that it can be interpreted. 
+It should also be noted that I am likely to continually change my point of fixation (see **Lecture 2** about eye movements). 
+These factors mean that distance and layout perception must surely interact with one another and be updated continually. 
+Indeed, Mon-Williams and Tresilian (1999) have shown that complex interactions exist between distance and layout perception.
+
+In this lecture, we are going to consider primarily how the human nervous system gauges the egocentric distance of an object that is being fixated (i.e. fixation distance). 
+We will also make life easier for ourselves by only considering the case where the observer and the object are stationary. 
+This is clearly a massive simplification and one that ignores the reality of everyday life.
+In fact, movement of the eyes and head provides us with an incredibly rich source of information regarding distance and layou t- information the human nervous system exploits. 
+Nevertheless, life (and this course) is short so we need to try and limit our consideration.
+
+## Distance and layout perception
+Cutting (1997) has provided a division of egocentric space into three regions:
+**Insert Figure here**
+This is a bit arbitrary but it is a useful starting point for our consideration. 
+The important point I want to get across is that personal space has been established as being approximately Euclidean in nature (not squashed up), with action and vista space having an affine character (squashed up)— although increasing the amount of available information decreases the affine nature of action space (Cutting 1997). 
+This means that the nervous system is able to gauge accurately the distance (and layout) of objects within personal space. 
+This observation raises the question of which sources of information (cues) can provide the distance information required for the Euclidean representation of personal space?
+
+The information used for gauging target distance has attracted scientific interest for well over a century but Cutting (1997, p. 69) has pointed out that the result of this interest is "little more than a plenum of lists". 
+Cutting is referring here to lists of potential distance cues, including; accommodation, aerial perspective, retinal image disparities, vergence angle, height in the visual field and so on. 
+For a long time, the author of every introductory textbook within psychology feels obliged to mindlessly list these cues (see Carlson for an example). 
+It is only recently that the issue of how the human nervous system uses these various sources of information has been addressed.
+
+We will begin by considering the potential cues to distance. 
+The figure below provides an overview of the distance cues possibly used by the nervous system (it should be noted that we don't fully understand distance perception so some of these cues may not be actually used or there may be sources that have yet to be identified). 
+There are other cues (such as shadowing) that contribute largely to the perception of object shape but whose role in distance perception is less clear.
+
+![Monocular and Binocular visual cues.](Images/L8_F1_cropped.jpg)
+
+In the figure, I have attempted to provide a basic taxonomy - the information is either binocular (only present when both eyes are viewing) or monocular (present with only one eye viewing). 
+I’ve further divided the information into that available from the retinae (retinal information) and that which arises from the ocular musculature (muscular).
+
+## Cue combination
+The first thing we realise when we look at the figure above is that the system must somehow combine all of these cues.
+
+It is extremely likely that information coming into the nervous system will contain 'wrong' bits of information — erroneous data if you like. 
+It seems reasonable to assume that the nervous system has evolved to deal with this problem— in other words the system is *robust*. 
+The term 'robust' used in this context originates in statistics where data can either be estimated in a non-robust fashion (e.g. the mean is a non-robust statistic) or a robust manner (the median is a robust statistic). 
+A robust statistic is simply one that optimally describes the data when outlying values are present.
+
+A useful framework for considering cue combination is the *modified weak fusion* (MWF) process proposed by Landy et al. (1995). 
+In the MWF process one cue can promote another to allow it to provide information to the system but no other interactions are allowed. 
+The modified weak fusion account is consistent with existing data on cue combination and provides a parsimonious summary of extant empirical studies.
+
+Modified weak fusion provides a good way of thinking about how the system combines different sources of information. 
+A crucial aspect of modified weak fusion (MWF) is that it allows one cue to promote another in order to allow it to provide information to the system (but no other interactions are allowed).
+
+## Distance and layout information
+The reason that information needs to be ‘promoted’ is because not all information is immediately useful to the system. 
+In order to illustrate this point we need to consider the different types of information that are available. 
+The type of the information that arises can be described as **body-scaled**, **relative** or **ordinal**. 
+We’ll consider these in turn:
+
+## Body-scaled distance cues
+Body-scale information provides a direct indication of the distance of surfaces from the body. 
+In other words, this is the gold standard of 3-D information that allows me to gauge directly egocentric distance. 
+Such information is scaled in relation to the perceptual systems of the observer. 
+This information category is occasionally referred to as ‘absolute’ but **body-scaled** best describes this information type. 
+Body scaled information is in principle available from the extra-retinal cues of *accommodation*, *vergence angle* and *vertical gaze angle* and the retinal information provided by *vertical disparities*. 
+Note that perceptual information is used to control the motoric accommodation (blur driven) and vergence (double images) systems but that these systems contribute, in turn, to perception (illustrating the importance of considering perception and action as two sides of the same coin).
+
+### Accommodation
+It has long been suggested that accommodation might be a source of distance information (e.g. Berkeley 1732) and it has been shown that accommodation is a major distance cue for some animals (e.g. the Chameleon). 
+On the other hand, a considerable amount of work investigating whether accommodation information plays a role in human depth perception is generally in agreement that accommodation plays little or no role. 
+Fisher and Ciuffreda (1988) challenged this view and the pendulum of opinion fell towards accommodation playing a role in human distance perception (until we spoiled the party). 
+Mon-Williams & Tresilian (2000) concluded that accommodation can act as a source of ordinal depth information in the absence of other depth cues, but questioned the contribution of accommodation to normal depth perception in full-cue conditions. 
+They suggested that accommodation’s ordinal role might be related to the use of vergence angle caused by the neural cross-linking of accommodation and vergence.
+
+### Vergence
+It has long been suggested that vergence might be a source of distance information (e.g. Berkeley 1709). 
+If we ‘know’ the distance between our eyes then simple triangulation can provide us with fixation distance if we are sensitive to vergence angle. 
+Nevertheless, there was some doubt about the usefulness of vergence derived distance information in normal (full cue) viewing conditions. 
+These doubts were founded on studies that used verbal reports of target distance to objects that were frequently placed at distances greater than 3m. 
+It is unlikely that vergence can provide useful information at such large distances (see later) and verbal reports are very unreliable. 
+James Tresilian and Mark Mon-Williams re-explored the role of vergence in distance perception and found evidence that vergence does contribute to distance perception.
+
+### Vertical image disparities
+Humans (and a number of other species) have two eyes that are laterally separated in the head (by about 6cm in humans). 
+The fact that the eyes are separated means that each eye has a slightly different vantage point (i.e. the images at the back of the two eyes are different). 
+The retinal image differences are described as retinal image disparities (disparity just means difference) and these disparities can provide useful information to the nervous system. 
+There are actually two ways in which the retinal images are different - there are vertical differences and horizontal differences. 
+The vertical retinal image disparities provide direct body-scaled information and there is good evidence that the human nervous system uses this information in distance perception.
+
+### Vertical gaze angle
+Vertical gaze angle describes the angle (measured from the imaginary line between the eye and the 'implicit horizon') created when viewing a target located on a planar supporting surface. 
+If the height of the eye above a planar supporting surface orthogonal to gravity is known then vertical gaze angle provides a potentially accurate cue to a target’s egocentric distance. 
+There is good evidence that human observers use this cue (Gardner & Mon-Williams, 2001; Mon-Williams et al. 2001).
+
+## Relative information
+Relative information allows an observer to gauge the relative distance that separates one object from another (i.e. object X is 20% closer than object Y). 
+Monocular retinal image cues provide relative information and are often described as pictorial cues. 
+The term *pictorial* thus refers to information sources such as height in scene, linear perspective and aerial perspective. 
+Artists have a good understanding of how these different cues can be used within visual art. 
+Unfortunately, our understanding of how the nervous system uses this information is pretty sparse.
+
+It is my opinion that the system always seeks to produce a body-scaled representation of its three dimensional environment. 
+Thus, I consider it crucial to consider how the system ‘promotes’ (using the language of MWF) relative information in order that a body-scaled representation of distance and layout be achieved. 
+Generally, the processes of cue promotion are poorly understood but there is one exception - the promotion of horizontal retinal image disparities.
+
+### Horizontal retinal image disparities
+We’ve already considered vertical retinal image disparities. 
+Horizontal retinal image disparities are different to their vertical counterparts because they do not provide body scaled information (i.e. they do not tell me about the distance of the object that I am fixating). 
+On the other hand, horizontal disparities do provide relative information regarding layout. 
+I suspect that almost all of you will have seen ‘magic eye pictures’ where you need to make vergence movements in order to see the ‘hidden 3-D picture’. 
+You may well have experienced other 3-D pictures where you peered down a viewing device or wore special glasses to see a 3-D image (not all of you will have seen the resulting three-dimensional pictures as around 5% of the population do not have the high level of binocular vision necessary). 
+These devices all work by ensuring that each eye receives an image that has horizontal differences. 
+Horizontal retinal image disparities provide a powerful impression of layout but they need to be ‘promoted’ in order to provide body-scaled information. 
+In order to promote the information it is necessary to know fixation distance. 
+It appears that the system uses a combination of vertical disparity and vergence information in order to gauge fixation distance for the purpose of promoting retinal image disparities. 
+In turn, it appears that horizontal retinal image information regarding layout can influence estimation of fixation distance (illustrating the complex interactions that exist between distance and layout perception).
+
+## Ordinal information
+Ordinal cues provide information regarding the order of objects. 
+The primary source of ordinal information is *occlusion*. 
+An object that occludes another may be assumed to be in front of the surface it masks. 
+Although this information may suggest the order of objects in the environment, it provides no impression of the relative or egocentric position of fixated objects. 
+Nevertheless, ordinal sources of information are likely to play an important role in promoting other information (e.g. through cue disambiguation).
+
+## How is vergence used?
+If we really want to make progress in understanding distance perception we have to start tackling fundamental questions related to how the system uses the available information. 
+I have been emphasising that a good framework for considering cue combination is the *modified weak fusion* (MWF) process proposed by Landy et al. (1995). 
+Landy et al. developed a definition for an empirical measure of cue weight based on the weighted averaging model of cue combination. 
+The measure relies on perturbing one cue whilst holding several others constant.
+
+Tresilian and Mon-Williams (Tresilian, Mon-Williams & Kelly 1999; Tresilian & Mon-Williams 1999) decided to adopt the MWF framework in order to explore how the human nervous system uses vergence information in distance perception. 
+They explored this issue by asking participants to point the end of an unseen stick at a visually specified target whilst they used ophthalmic prisms to manipulate vergence angle.
+They investigated three factors that have been suggested to contribute to the determination of a cue's weight:
+
+i) the cue's intrinsic reliability which is related to such factors as its signal to noise ratio. 
+The geometry of binocular vision indicates that the usefulness of vergence as a source of distance information is restricted to personal space — it is unlikely to provide any useful information for fixation distances greater than about 1.5m. 
+Since vergence angle gets smaller with increasing fixation distance, the reliability of the vergence cue decreases with fixation distance. 
+This means that increasing the fixation distance will decrease the signal-to-noise ratio of the vergence cue and, according to MWF, should result in a decreased weighting being attached to the vergence cue;
+
+ii) the degree to which the cue conflicts with information provided by the other available cues — the cue's discrepancy;
+
+iii) the extent to which the weighting attached to the cue decreases as other information becomes available.
+
+The results suggested that:
+
+i) vergence weight decreases with increasing fixation distance.
+
+ii) vergence plays a smaller role in distance perception if it is discrepant with other information about an object's distance.
+
+iii) vergence weighting decreases as other cues become available.
+
+It is important to realise the implications of (iii). 
+The results showed that adding pictorial information altered the participant’s pointing behaviour (i.e. vergence and pictorial cues combined to guide action).
+
+## Distance perception in visual form agnosia
+Mon-Williams, Tresilian, McIntosh and Milner (2001) investigated the cues used for the representation of personal space in a patient with visual form agnosia (DF). 
+Their results indicated that DF relies predominantly on binocular vergence information when determining the distance of a target despite the presence of other (retinal) cues. 
+Notably, DF is able to construct a Euclidean representation of personal space from vergence alone. 
+This finding supports the idea that vergence provides the nervous system with veridical information for the construction of personal space. 
+DF is also able to use horizontal image disparities in the perception of layout.
+
+The results from this study suggest that the ventral stream is responsible for extracting layout information from 'monocular' retinal cues (on the basis that DF does not seem to be able to access this information). 
+The fact that DF can use horizontal image disparities suggests that this information is carried in the dorsal stream. 
+If it is the case that the ventral stream processes the pictorial cues and this information alters action (see previous section) then the implication is that the ventral stream does play a role in the control of action. 
+This would suggest that the ventral and dorsal streams are not completely independent in neurologically intact humans (i.e. the two streams interact). 
+It must be the case that the processing that occurs within the dorsal stream relates to that information most critical for supporting action. 
+Likewise, the ventral stream must process that information most critical for tasks such as object recognition. 
+Nevertheless, these deliberations suggest that the notion of two separate streams works best as a neuropsychological model for predicting patterns of behaviour in conditions such as visual form agnosia and optic ataxia.
+
+## References
+
+Berkeley, G. (1732). *An Essay Towards a New Theory of Vision* (4th ed.). First edition published 1709.
+
+Cutting, J. E. (1997). *How the eye measures reality and virtual reality*. Behavior Research Methods, Instrumentation, & Computers, 29, 29-36.
+
+Fisher, S. K. & Ciuffreda, K. J. (1988). *Accommodation and apparent distance*. Perception, 17, 609–621.
+
+Gardner, P., Mon-Williams, M. (2001). *Vertical gaze angle: Absolute height-in-scene information for the programming of prehension*. Experimental Brain Research, 136, 379-385.
+
+Landy, M. S., Maloney, L. T., Johnston, E. B. & Young, M. (1995). *Measurement and modeling of depth cue combination: in defense of weak fusion*. Vision Research, 35, 389–412.
+
+Mon-Williams, M., McIntosh, R. D., Milner, D. (2001). *Vertical gaze as a distance cue for programming reaching: Insights from visual form agnosia II (of III)*. Experimental Brain Research, 139, 137-142.
+
+Mon-Williams, M., Tresilian, J. R. (1999). *A review of some recent studies on the extra-retinal contribution to distance perception*. Perception, 28, 167-181.
+
+Mon-Williams, M., Tresilian, J. R. (2000). *An ordinal role for accommodation in distance perception*. Ergonomics, 43, 391-404.
+
+-- Mon-Williams, M., Tresilian, J. R., McIntosh, R. D., Milner, D. (2001). *Monocular and binocular distance cues: Insights from visual form agnosia I (of III)*. Experimental Brain Research, 139, 127-136.
+
+-- Tresilian, J. R., Mon-Williams, M. (2000). *Getting the measure of vergence weight in nearness perception*. Experimental Brain Research, 132, 362-368.
+
+-- Tresilian, J. R., Mon-Williams, M., Kelly, B. M. (1999). *Increasing confidence in vergence as a distance cue*. Proceedings of the Royal Society B266, 39-44.
